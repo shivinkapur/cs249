@@ -1,5 +1,9 @@
 *.pdf
 *.zip
 *.cs
+*.tsv
+*.png
+*.rar
+*.json
 
 249 Project/
