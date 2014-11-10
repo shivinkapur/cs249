@@ -1,0 +1,517 @@
+Number,Name,Type,SubType,Xposition,Yposition,RGB,Size
+1,Alzheimer disease,disease,Neurological,-116.487,-126.389,#EE4444,17.469
+2,Cerebral amyloid angiopathy,disease,Neurological,-59.676,-38.253,#EE4444,6.373
+3,Coronary artery disease,disease,Cardiovascular,-73.901,-36,#0099FF,9.824
+4,HDL cholesterol level QTL,disease,Metabolic,-56.567,-50.09,#B3ECF7,6.373
+5,Tangier disease,disease,Metabolic,-67.861,-48.513,#B3ECF7,6
+6,Anemia,disease,Hematological,55.313,145.021,#99CC00,13.398
+7,Cone dystrophy,disease,Ophthamological,-316.964,3.001,#993399,10.947
+8,Fundus albipunctatus,disease,Ophthamological,-322.979,36.881,#993399,7.025
+9,Macular dystrophy,disease,Ophthamological,-327.343,20.718,#993399,8.783
+10,Retinitis pigmentosa,disease,Ophthamological,-287.033,29.297,#993399,46.323
+11,Stargardt disease,disease,Ophthamological,-330.331,8.382,#993399,6.373
+12,Leukemia,disease,Cancer,80.248,-165.976,#CC6600,57.808
+13,Blood group,disease,Hematological,26.003,56.167,#99CC00,34.659
+14,Myopathy,disease,Muscular,-18.626,207.213,#FF572D,14.709
+15,Cardiomyopathy,disease,Cardiovascular,-58.398,179.123,#0099FF,37.976
+16,Deafness,disease,Ear-Nose-Throat,-209.044,167.68,#66CCCC,64
+17,Pancreatic cancer,disease,Cancer,210.593,-150.944,#CC6600,13.398
+18,Adenosine deaminase deficiency,disease,Immunological,-74.358,-297.21,#339966,6
+19,Severe combined immunodeciency,disease,Immunological,-81.944,-282.641,#339966,12.141
+20,Hypertension,disease,Cardiovascular,-81.067,-156.452,#0099FF,17.469
+21,Asthma,disease,Respiratory,-7.032,-66.362,#FF9999,18.908
+22,Beta-2-adrenoreceptor agonist; reduced response to,disease,Unclassified,11.842,-60.576,#999999,6
+23,Obesity,disease,Nutritional,35.287,-75.341,#FF0099,31.375
+24,Spondyloepiphyseal dysplasia,disease,Skeletal,-326.57,225.056,#FFFFCC,8.783
+25,Leanness; inherited,disease,Nutritional,38.801,-46.914,#FF0099,6
+26,Alagille syndrome,disease,Multiple,-165.333,190.577,#C0BB56,6
+27,Tetralogy of Fallot,disease,Cardiovascular,-153.419,194.484,#0099FF,7.025
+28,Preeclampsia,disease,Cardiovascular,-100.616,-152.138,#0099FF,7.025
+29,Renal tubular dysgenesis,disease,Renal,-88.947,-136.656,#CC0099,7.843
+30,Mental retardation,disease,Neurological,188.296,264.668,#EE4444,36.314
+31,Hemolytic anemia,disease,Hematological,31.882,120.515,#99CC00,14.709
+32,Diabetes mellitus,disease,Endocrine,-4.152,-124.657,#FFCC00,41.312
+33,Atherosclerosis,disease,Cardiovascular,-11.692,-46.047,#0099FF,6
+34,Myocardial infarction,disease,Cardiovascular,-149.945,-113.972,#0099FF,14.709
+35,Stroke,disease,Cardiovascular,-168.616,-113.496,#0099FF,6.373
+36,Ichthyosiform erythroderma,disease,Dermatological,-96.218,387.368,#FF9933,7.025
+37,Spherocytosis,disease,Hematological,53.65,117.019,#99CC00,8.783
+38,Long QT syndrome,disease,Cardiovascular,-121.832,221.886,#0099FF,10.947
+39,Adenoma; periampullary,disease,Cancer,140.737,-229.864,#CC6600,6
+40,Adenomas,disease,Cancer,149.274,-209.933,#CC6600,7.025
+41,Colon cancer,disease,Cancer,189.004,-211.027,#CC6600,52.946
+42,Desmoid disease; hereditary,disease,Cancer,145.526,-188.924,#CC6600,6
+43,Gardner syndrome,disease,Cancer,159.184,-237.678,#CC6600,6
+44,Gastric cancer,disease,Cancer,169.761,-162.258,#CC6600,14.709
+45,Turcot syndrome,disease,Cancer,151.312,-198.349,#CC6600,7.025
+46,Autoimmune disease,disease,Immunological,129.968,-204.244,#339966,7.843
+47,Amyloidosis,disease,Neurological,-215.892,-108.011,#EE4444,9.824
+48,Apolipoprotein deficiency,disease,Metabolic,-275.416,-92.787,#B3ECF7,7.843
+49,Corneal dystrophy,disease,Ophthamological,-265.248,-79.515,#993399,10.947
+50,Hypertriglyceridemia,disease,Metabolic,-266.857,-46.053,#B3ECF7,7.843
+51,Hypoalphalipoproteinemia,disease,Metabolic,-248.928,-83.475,#B3ECF7,6
+52,Hypercholesterolemia,disease,Metabolic,-301.898,-102.941,#B3ECF7,12.141
+53,Abetalipoproteinemia,disease,Metabolic,-316.191,-113.74,#B3ECF7,6.373
+54,Hypobetalipoproteinemia,disease,Metabolic,-318.473,-102.852,#B3ECF7,6
+55,Hyperlipoproteinemia,disease,Metabolic,-137.612,-127.007,#B3ECF7,6.373
+56,Sea-blue histiocyte disease,disease,Hematological,-132.674,-114.774,#99CC00,6
+57,Schizophrenia,disease,Psychiatric,-166.947,-153.178,#6699CC,13.398
+58,Urolithiasise,disease,Metabolic,283.074,270.911,#B3ECF7,6.373
+59,Squamous cell carcinoma,disease,Cancer,133.517,-239.915,#CC6600,7.025
+60,Systemic lupus erythematosus,disease,Immunological,5.879,-165.496,#339966,7.843
+61,Aquaporin-1 deficiency,disease,Unclassified,54.84,66.172,#999999,6
+62,Androgen insensitivity,disease,Endocrine,183.705,-97.431,#FFCC00,6
+63,Breast cancer,disease,Cancer,186.441,-134.751,#CC6600,28.139
+64,Perineal hypospadias,disease,Endocrine,174.547,-88.569,#FFCC00,6
+65,Prostate cancer,disease,Cancer,199.261,-106.604,#CC6600,17.469
+66,Spinal muscular atrophy,disease,Muscular,173.84,-40.825,#FF572D,10.947
+67,Ichthyosis,disease,Dermatological,-90.025,370.949,#FF9933,10.947
+68,Placental steroid sulfatase deciency,disease,Metabolic,-82.423,384.614,#B3ECF7,6
+69,Ataxia-telangiectasia,disease,Immunological,131.732,-139.219,#339966,6.373
+70,Lymphoma,disease,Cancer,140.908,-152.559,#CC6600,14.709
+71,T-cell lymphoblastic leukemia,disease,Cancer,150.773,-179.726,#CC6600,6.373
+72,Alternating hemiplegia of childhood,disease,Neurological,-34.14,-50.934,#EE4444,6
+73,Migraine,disease,Neurological,-38.459,-63.763,#EE4444,7.843
+74,Renal tubular acidosis,disease,Renal,46.178,93.399,#CC0099,8.783
+75,Cutis laxa,disease,Connective tissue disorder,-290.375,-37.654,#FFFF80,7.025
+76,Menkes disease,disease,Neurological,-305.94,-48.578,#EE4444,6
+77,Occipital horn syndrome,disease,Multiple,-311.376,-39.489,#C0BB56,6
+78,Hypercholanemia,disease,Gastrointestinal,-114.611,-157.022,#CC9900,7.025
+79,Maple syrup urine disease,disease,Metabolic,-121.91,167.317,#B3ECF7,7.843
+80,von Hippel-Lindau syndrome,disease,Cancer,116.821,-229.658,#CC6600,6.373
+81,GRACILE syndrome,disease,Metabolic,-92.137,147.695,#B3ECF7,6
+82,Leigh syndrome,disease,Neurological,-100.057,162.191,#EE4444,17.469
+83,Mitochondrial complex deciency,disease,Multiple,-105.713,142.862,#C0BB56,10.947
+84,Central hypoventilation syndrome,disease,Respiratory,-109.443,-210.101,#FF9999,8.783
+85,Memory impairment,disease,Neurological,-134.28,-200.288,#EE4444,6
+86,Obsessive-compulsive disorder,disease,Psychiatric,-144.361,-187.24,#6699CC,7.025
+87,Cowden disease,disease,Cancer,233.992,-109.275,#CC6600,6.373
+88,Polyposis,disease,Cancer,231.134,-131.391,#CC6600,6.373
+89,Ovarian cancer,disease,Cancer,157.71,-135.87,#CC6600,12.141
+90,Papillary serous carcinoma of the peritoneum,disease,Cancer,185.363,-159.036,#CC6600,6
+91,Adenocarcinoma,disease,Cancer,121.704,-182.508,#CC6600,7.843
+92,Melanoma,disease,Cancer,209.697,-124.28,#CC6600,8.783
+93,Nonsmall cell lung cancer,disease,Cancer,135.411,-193.028,#CC6600,7.025
+94,Fanconi anemia,disease,Multiple,245.485,-122.05,#C0BB56,16.067
+95,Wilms tumor,disease,Cancer,240.455,-164.836,#CC6600,7.843
+96,Complementary component deficiency,disease,Immunological,-124.824,-331.284,#339966,18.908
+97,Combined immunodeficiency,disease,Immunological,-104.68,-307.509,#339966,6.373
+98,Cerebellar ataxia,disease,Neurological,7.174,-309.253,#EE4444,6.373
+99,Episodic ataxia,disease,Neurological,0.703,-299.679,#EE4444,6.373
+100,Hemiplegic migraine; familial,disease,Neurological,13.483,-300.022,#EE4444,6
+101,Spinocereballar ataxia,disease,Neurological,10.315,-279.098,#EE4444,18.908
+102,Night blindness,disease,Ophthamological,-321.999,60.187,#993399,8.783
+103,Hypokalemic periodic paralysis,disease,Renal,7.346,267.88,#CC0099,7.025
+104,Malignant hyperthermia susceptibility,disease,Neurological,-5.443,247.529,#EE4444,6.373
+105,Thyrotoxic periodic paralysis,disease,Endocrine,6.25,254.504,#FFCC00,6
+106,Ataxia,disease,Neurological,172.947,74.31,#EE4444,8.783
+107,Epilepsy,disease,Neurological,162.963,47.498,#EE4444,24.969
+108,Osteoporosis,disease,Bone,277.055,256.263,#C0BB56,9.824
+109,Muscular dystrophy,disease,Muscular,-53.494,226.775,#FF572D,26.545
+110,Hepatic adenoma,disease,Cancer,129.044,-168.655,#CC6600,12.141
+111,Non-Hodgkin lymphoma,disease,Cancer,141.217,-202.265,#CC6600,6
+112,Ventricular tachycardia,disease,Cardiovascular,-58.126,355.44,#0099FF,7.025
+113,Hyperparathyroidism,disease,Endocrine,-30.293,-238.4,#FFCC00,7.025
+114,Hypocalcemia,disease,Endocrine,-39.445,-247.023,#FFCC00,6
+115,Hypocalciuric hypercalcemia,disease,Endocrine,-29.297,-250.846,#FFCC00,6
+116,Creatine phosphokinase,disease,Metabolic,-35.778,210.582,#B3ECF7,6
+117,Rippling muscle disease,disease,Muscular,-35.637,200.145,#FF572D,6
+118,Platelet defect/deficiency,disease,Hematological,13.59,-95.068,#99CC00,7.843
+119,Rheumatoid arthritis,disease,Connective tissue disorder,-0.566,-180.177,#FFFF80,12.141
+120,Myelogenous leukemia,disease,Cancer,146.817,-239.852,#CC6600,7.843
+121,Homocystinuria,disease,Metabolic,-201.645,-112.142,#B3ECF7,6.373
+122,Thrombophilia,disease,Hematological,-204.916,-137.387,#99CC00,13.398
+123,Malaria,disease,Immunological,0.793,-42.35,#339966,8.783
+124,Endometrial carcinoma,disease,Cancer,221.299,-137.952,#CC6600,7.843
+125,Listeria monocytogenes,disease,Immunological,209.966,-136.198,#339966,6
+126,Li Fraumeni syndrome,disease,Cancer,161.407,-179.82,#CC6600,6
+127,Orolaryngeal cancer,disease,Cancer,146.516,-167.139,#CC6600,6
+128,Myasthenic syndrome,disease,Muscular,29.332,293.646,#FF572D,10.947
+129,Nicotine addiction,disease,Psychiatric,185.206,62.711,#6699CC,7.025
+130,Myotonia congenita,disease,Muscular,8.334,280.502,#FF572D,6.373
+131,Osteopetrosis,disease,Bone,304.726,247.253,#C0BB56,7.843
+132,HIV,disease,Immunological,-11.37,-196.088,#339966,7.843
+133,Achromatopsia,disease,Ophthamological,-289.175,-24.151,#993399,7.025
+134,Caffey disease,disease,Connective tissue disorder,248.259,251.916,#FFFF80,6
+135,Dissection of cervical arteries,disease,Connective tissue disorder,271.606,268.222,#FFFF80,6
+136,Ehlers-Danlos syndrome,disease,Connective tissue disorder,256.705,264.716,#FFFF80,13.398
+137,Osteogenesis imperfecta,disease,Bone,256.266,244.719,#C0BB56,6.373
+138,Marfan syndrome,disease,Connective tissue disorder,232.792,243.603,#FFFF80,6.373
+139,Achondrogenesis-hypochondrogenesis; type II,disease,Bone,-297.964,212.848,#C0BB56,6
+140,Kniest dysplasia,disease,Skeletal,-289.417,206.576,#FFFFCC,6
+141,Osteoarthritis,disease,Connective tissue disorder,-306.783,223.381,#FFFF80,7.843
+142,SMED Strudwick type,disease,Skeletal,-291.674,221.461,#FFFFCC,6
+143,Stickler syndrome,disease,Multiple,-270.979,202.563,#C0BB56,7.025
+144,Wagner syndrome,disease,Ophthamological,-283.105,215.167,#993399,6
+145,Aneurysm; familial arterial,disease,Unclassified,265.456,250.052,#999999,6
+146,EBD,disease,Dermatological,-79.989,315.682,#FF9933,6
+147,Epidermolysis bullosa,disease,Dermatological,-64.607,297.138,#FF9933,16.067
+148,Toenail dystrophy; isolated,disease,Dermatological,-80.439,305.128,#FF9933,6
+149,Transient bullous of the newborn,disease,Dermatological,-69.535,314.034,#FF9933,6
+150,Fuchs endothelial corneal dystrophy,disease,Ophthamological,-262.545,-94.933,#993399,6
+151,Epiphyseal dysplasia,disease,Bone,-334.9,240.438,#C0BB56,9.824
+152,Intervertebral disc disease,disease,Neurological,-349.656,245.896,#EE4444,6.373
+153,Marshall syndrome,disease,Multiple,-282.385,196.907,#C0BB56,6
+154,OSMED syndrome,disease,Bone,-251.666,197.671,#C0BB56,6
+155,Weissenbacher-Zweymuller syndrome,disease,Connective tissue disorder,-255.753,187.989,#FFFF80,6
+156,Pseudoachondroplasia,disease,Skeletal,-340.759,226.632,#FFFFCC,6
+157,Lung cancer,disease,Cancer,142.728,-133.085,#CC6600,7.843
+158,Hemosiderosis; systemic; due to aceruloplasminemia,disease,Hematological,0.605,-319.228,#99CC00,6
+159,Hypoceruloplasminemia,disease,Metabolic,11.444,-320.378,#B3ECF7,6
+160,CPT deficiency; hepatic,disease,Metabolic,-4.113,218.986,#B3ECF7,6.373
+161,Rubenstein-Taybi syndrome,disease,Multiple,145.32,-220.372,#C0BB56,6.373
+162,Leber congenital amaurosis,disease,Ophthamological,-304.048,-8.286,#993399,10.947
+163,Cataract,disease,Ophthamological,81.163,227.14,#993399,21.885
+164,Atrial fibrillation,disease,Cardiovascular,-115.472,203.331,#0099FF,8.783
+165,Atrioventricular block,disease,Cardiovascular,-142.573,206.617,#0099FF,7.025
+166,Graves disease,disease,Endocrine,305.412,-154.92,#FFCC00,6.373
+167,Hypothyroidism,disease,Endocrine,291.479,-146.258,#FFCC00,10.947
+168,Pilomatricoma,disease,Cancer,171.326,-177.536,#CC6600,6
+169,Glaucoma,disease,Ophthamological,160.216,222.414,#993399,7.843
+170,Peters anomaly,disease,Developmental,146.89,227.474,#B84BE7,6.373
+171,Coumarin resistance,disease,Hematological,194.48,72.027,#99CC00,6
+172,Dopamine beta-hydroxylase deciency,disease,Metabolic,23.01,-229.557,#B3ECF7,6
+173,Parkinson disease,disease,Neurological,28.207,-211.192,#EE4444,16.067
+174,Angiotensin I-converting enzyme,disease,Endocrine,-83.698,-125.437,#FFCC00,6
+175,SARS; progression of,disease,Immunological,-90.781,-117.205,#339966,6
+176,Amyotrophic lateral sclerosis,disease,Neurological,193.502,-18.197,#EE4444,9.824
+177,Lower motor neuron disease; progressive; without sensory symptoms,disease,Neurological,184.682,-6.288,#EE4444,6
+178,Lissencephaly,disease,Neurological,196.865,217.755,#EE4444,7.843
+179,Subcortical laminar heterotopia,disease,Neurological,192.191,230.587,#EE4444,6.373
+180,Jensen syndrome,disease,Neurological,-211.738,217.164,#EE4444,6
+181,Mohr-Tranebjaerg syndrome,disease,Neurological,-240.37,214.297,#EE4444,6
+182,Meniere disease,disease,Neurological,-242.379,203.137,#EE4444,6
+183,Benzene toxicity,disease,Unclassified,38.709,-151.386,#999999,6
+184,Glioblastoma,disease,Cancer,124.448,-95.158,#CC6600,8.783
+185,Becker muscular dystrophy,disease,Muscular,-26.413,190.341,#FF572D,6.373
+186,Duchenne muscular dystrophy,disease,Muscular,-26.124,179.272,#FF572D,6
+187,Charcot-Marie-Tooth disease,disease,Neurological,250.052,-8.394,#EE4444,26.545
+188,Keratosis palmoplantaria striata,disease,Dermatological,-77.36,340.768,#FF9933,7.843
+189,Arrhythmogenic right ventricular dysplasia,disease,Cardiovascular,-63.547,336.705,#0099FF,7.025
+190,Dilated cardiomyopathy with woolly hair and keratoderma,disease,Multiple,-74.593,326.748,#C0BB56,6
+191,Skin fragility-woolly hair syndrome,disease,Dermatological,-62.374,323.936,#FF9933,6
+192,Dentin dysplasia; type II,disease,Bone,-245.101,134.646,#C0BB56,6
+193,Dentinogenesis imperfecta; Shields type,disease,Bone,-251.649,142.969,#C0BB56,6
+194,Achondrogenesis Ib,disease,Bone,-347.349,235.429,#C0BB56,6
+195,Atelosteogenesis,disease,Connective tissue disorder,-337.746,254.428,#FFFF80,6.373
+196,Diastrophic dysplasia,disease,Skeletal,-348.438,256.629,#FFFFCC,6
+197,Hirschsprung disease,disease,Gastrointestinal,-96.734,-199.62,#CC9900,10.947
+198,Ectodermal dysplasia,disease,Dermatological,-239.786,229.618,#FF9933,12.141
+199,Shah-Waardenburg syndrome,disease,Multiple,-116.146,-199.2,#C0BB56,6
+200,ABCD syndrome,disease,Multiple,-108.706,-191.8,#C0BB56,6
+201,Waardenburg-Shah syndrome,disease,Multiple,-122.467,-208.173,#C0BB56,6.373
+202,Dejerine-Sottas disease,disease,Multiple,267.268,10.468,#C0BB56,7.843
+203,Neuropathy,disease,Neurological,281.39,3.45,#EE4444,12.141
+204,Hematopoiesis; cyclic,disease,Hematological,-260.825,-179.269,#99CC00,6
+205,Neutropenia,disease,Hematological,-249.987,-170.808,#99CC00,7.843
+206,Supravalvar aortic stenosis,disease,Cardiovascular,-295.309,-47.911,#0099FF,6
+207,Williams-Beuren syndrome,disease,Multiple,-301.483,-35.613,#C0BB56,6
+208,Emery-Dreifuss muscular dystrophy,disease,Muscular,-7.142,92.386,#FF572D,6.373
+209,Elliptocytosis,disease,Hematological,43.643,107.579,#99CC00,7.843
+210,Estrogen resistance,disease,Endocrine,-45.262,-50.458,#FFCC00,6
+211,Anterior segment anomalies and cataract,disease,Ophthamological,104.313,220.05,#993399,7.843
+212,Branchiootic syndrome,disease,Neurological,110.431,209.881,#EE4444,6
+213,Hemorrhagic diathesis,disease,Hematological,-228.585,-145.653,#99CC00,6.373
+214,Thrombocytopenia,disease,Hematological,-235.833,-157.241,#99CC00,7.843
+215,Factor x deficiency,disease,Hematological,-215.444,-68.98,#99CC00,12.141
+216,Aortic aneurysm,disease,Cardiovascular,213.329,228.179,#0099FF,6
+217,Ectopia,disease,Ophthamological,170.821,232.597,#993399,6.373
+218,MASS syndrome,disease,Connective tissue disorder,203.329,231.626,#FFFF80,6
+219,Shprintzen-Goldberg syndrome,disease,Multiple,207.95,241.362,#C0BB56,6
+220,Weill-Marchesani syndrome,disease,Connective tissue disorder,218.308,237.978,#FFFF80,6.373
+221,Viral infection,disease,Immunological,-249.572,-156.016,#339966,6.373
+222,Walker-Warburg syndrome,disease,Multiple,-59.73,252.315,#C0BB56,7.025
+223,Afibrinogenemia,disease,Hematological,-198.596,-122.848,#99CC00,6.373
+224,Dysfibrinogenemia,disease,Hematological,-218.365,-126.17,#99CC00,7.025
+225,Aarskog-Scott syndrome,disease,Multiple,171.761,291.964,#C0BB56,6
+226,Jackson-Weiss syndrome,disease,Skeletal,244.127,-205.33,#FFFFCC,6.373
+227,Kallmann syndrome,disease,Multiple,256.489,-206.691,#C0BB56,6.373
+228,Pfeiffer syndrome,disease,Skeletal,248.933,-195.456,#FFFFCC,6.373
+229,Achondroplasia,disease,Skeletal,236.575,-177.412,#FFFFCC,6
+230,Bladder cancer,disease,Cancer,197.887,-160.724,#CC6600,7.843
+231,Cervical carcinoma,disease,Cancer,232.181,-187.653,#CC6600,6
+232,Crouzon syndrome,disease,Skeletal,221.601,-188.469,#FFFFCC,6.373
+233,Hypochondroplasia,disease,Skeletal,228.653,-169.087,#FFFFCC,6
+234,Muenke syndrome,disease,Skeletal,226.409,-179.129,#FFFFCC,6
+235,Thanatophoric dysplasia; types I and II,disease,Skeletal,218.587,-172.502,#FFFFCC,6
+236,Apert syndrome,disease,Connective tissue disorder,237.676,-196.562,#FFFF80,6
+237,Beare-Stevenson cutis gyrata syndrome,disease,Multiple,226.552,-197.94,#C0BB56,6
+238,Craniofacial-skeletal-dermatologic dysplasia,disease,Multiple,242.513,-186.799,#C0BB56,6
+239,Craniosynostosis,disease,Skeletal,239.251,-215.532,#FFFFCC,6.373
+240,Saethre-Chotzen syndrome,disease,Developmental,232.867,-206.462,#B84BE7,6.373
+241,Cancer susceptibility,disease,Cancer,166.29,-147.085,#CC6600,6.373
+242,Hypofibrinogenemia,disease,Hematological,-208.928,-120.288,#99CC00,6
+243,Axenfeld anomaly,disease,Ophthamological,116.13,219.353,#993399,6
+244,Iridogoniodysgenesis,disease,Ophthamological,126.227,201.004,#993399,6.373
+245,Iris hypoplasia and glaucoma,disease,Ophthamological,115.534,200.592,#993399,6
+246,Rieger syndrome,disease,Multiple,123.573,211.658,#C0BB56,6.373
+247,Rhabdomyosarcoma,disease,Cancer,207.145,-89.028,#CC6600,7.843
+248,Larson syndrome,disease,Skeletal,-341.69,265.917,#FFFFCC,6
+249,Spondylocarpotarsal synostosis syndrome,disease,Skeletal,-331.061,263.769,#FFFFCC,6
+250,Favism,disease,Metabolic,33.759,138.799,#B3ECF7,6
+251,G6PD deficiency,disease,Metabolic,23.279,136.55,#B3ECF7,6
+252,Insomnia,disease,Psychiatric,36.378,-279.554,#6699CC,6.373
+253,Myoclonic epilepsy,disease,Neurological,181.057,159.2,#EE4444,7.025
+254,Dyserythropoietic anemia,disease,Hematological,78.704,-211.687,#99CC00,6
+255,Macrothrombocytopenia,disease,Hematological,89.108,-209.968,#99CC00,6
+256,Hyperinsulinism,disease,Metabolic,-23.148,-151.043,#B3ECF7,6
+257,MODY,disease,Endocrine,28.66,-141.143,#FFCC00,9.824
+258,Adult i phenotype,disease,Hematological,13.845,84.275,#99CC00,6
+259,Alexander disease,disease,Multiple,-116.333,153.22,#C0BB56,6.373
+260,Growth hormone,disease,Endocrine,55.929,-205.539,#FFCC00,6.373
+261,Hypoplastic left heart syndrome,disease,Cardiovascular,-154.055,220.513,#0099FF,6
+262,Oculodentodigital dysplasia,disease,Skeletal,-143.633,218.302,#FFFFCC,6
+263,Syndactyly,disease,Skeletal,-153.908,209.862,#FFFFCC,6
+264,Bart-Pumphrey syndrome,disease,Multiple,-264.271,159.98,#C0BB56,6
+265,Hystrix-like ichthyosis with deafness,disease,Multiple,-265.643,180.901,#C0BB56,6
+266,Keratitis-ichthyosis-deafness syndrome,disease,Multiple,-255.769,177.162,#C0BB56,6
+267,Keratoderma; palmoplantar; with deafness,disease,Dermatological,-263.922,170.557,#FF9933,6
+268,Vohwinkel syndrome,disease,Multiple,-273.468,165.431,#C0BB56,6.373
+269,Erythrokeratoderma,disease,Dermatological,-264.905,148.7,#FF9933,7.025
+270,Simpson-Golabi-Behmel syndrome,disease,Multiple,247.327,-176.587,#C0BB56,6
+271,Autism,disease,Psychiatric,207.049,291.81,#6699CC,7.843
+272,Pituitary ACTH-secreting adenoma,disease,Cancer,-54.185,371.656,#CC6600,7.025
+273,Acromegaly,disease,Endocrine,-49.454,392.765,#FFCC00,6.373
+274,McCune-Albright syndrome,disease,Multiple,-39.617,388.149,#C0BB56,6
+275,Osseous heteroplasia,disease,Bone,-57.303,382.745,#C0BB56,6
+276,Pseudohypoparathyroidism,disease,Endocrine,-46.842,380.52,#FFCC00,6
+277,Somatotrophinoma,disease,Endocrine,-60.316,392.817,#FFCC00,6
+278,Glutathione synthetase deciency,disease,Metabolic,55.261,104.713,#B3ECF7,6
+279,Huntington disease,disease,Neurological,26.888,-257.865,#EE4444,7.843
+280,Sandho disease; infantile; juvenile; and adult forms,disease,Metabolic,176.685,-25.487,#B3ECF7,6
+281,Hemolytic-uremic syndrome,disease,Hematological,-251.413,-48.593,#99CC00,6
+282,Macular degeneration,disease,Ophthamological,-274.276,-27.597,#993399,8.783
+283,Nephropathy-hypertension,disease,Renal,-240.591,-43.9,#CC0099,6
+284,Creutzfeldt-Jakob disease,disease,Neurological,29.56,-270.475,#EE4444,6.373
+285,Vertical talus,disease,Skeletal,271.517,-22.323,#FFFFCC,6
+286,Costello syndrome,disease,Multiple,230.013,-158.742,#C0BB56,6
+287,Thyroid carcinoma,disease,Cancer,241.721,-146.278,#CC6600,16.067
+288,Apparent mineralocorticoid excess; hypertension due to,disease,Bone,-82.851,-176.114,#C0BB56,6
+289,Spastic ataxia/paraplegia,disease,Neurological,211.249,2.579,#EE4444,13.398
+290,Alcohol dependence,disease,Unclassified,-163.706,-170.957,#999999,6
+291,Anorexia nervosa,disease,Nutritional,-152.296,-168.663,#FF0099,6
+292,Seasonal affective disorder,disease,Psychiatric,-156.539,-179.02,#6699CC,6
+293,Atopy,disease,Immunological,-8.839,-87.712,#339966,8.783
+294,Graft-versus-host disease,disease,Immunological,-15.418,-184.474,#339966,6
+295,Allergic rhinitis,disease,Immunological,-21.328,-50.946,#339966,6
+296,Hyperproinsulinemia,disease,Endocrine,28.923,-156.135,#FFCC00,6
+297,Leprechaunism,disease,Developmental,-11.721,-166.935,#B84BE7,6
+298,Rabson-Mendenhall syndrome,disease,Multiple,-4.371,-159.002,#C0BB56,6
+299,Pancreatic agenesis,disease,Gastrointestinal,18.858,-159.974,#CC9900,6
+300,Macrocytic anemia,disease,Hematological,138.435,-212.147,#99CC00,6
+301,Myelodysplastic syndrome,disease,Muscular,152.563,-228.827,#FF572D,7.025
+302,Myelofibrosis; idiopathic,disease,Hematological,109.388,-255.373,#99CC00,6
+303,Polycythemia,disease,Hematological,119.051,-249.284,#99CC00,6.373
+304,Thrombocythemia,disease,Hematological,117.202,-263.346,#99CC00,6.373
+305,Jervell and Lange-Nielsen syndrome,disease,Multiple,-128.298,208.56,#C0BB56,6.373
+306,Acquired long QT syndrome,disease,Cardiovascular,-112.098,234.096,#0099FF,6
+307,Persistent hyperinsulinemic hypoglycemia of infancy,disease,Metabolic,-14.611,-156.929,#B3ECF7,6
+308,Myokymia with neonatal epilepsy,disease,Neurological,187.424,48.887,#EE4444,6
+309,Gastrointestinal stromal tumor,disease,Cancer,101.982,-204.645,#CC6600,6.373
+310,Germ cell tumor,disease,Cancer,122.868,-194.479,#CC6600,6.373
+311,Mast cell leukemia,disease,Cancer,112.12,-194.332,#CC6600,6
+312,Mastocytosis with associated hematologic disorder,disease,Immunological,113.415,-204.616,#339966,6
+313,Piebaldism,disease,Dermatological,107.9,-213.554,#FF9933,6
+314,Stomach cancer,disease,Cancer,156.364,-150.183,#CC6600,6
+315,Cyclic ichthyosis with epidermolytic hyperkeratosis,disease,Dermatological,-78.179,363.43,#FF9933,6
+316,Epidermolytic hyperkeratosis,disease,Dermatological,-97.057,357.69,#FF9933,7.025
+317,Unna-Thost disease; nonepidermolytic,disease,Dermatological,-77.041,353.036,#FF9933,6
+318,Nevus; epidermal; epidermolytic hyperkeratotic type,disease,Dermatological,-87.552,351.804,#FF9933,6
+319,Laryngoonychocutaneous syndrome,disease,Multiple,-50.136,309.328,#C0BB56,6
+320,Lipodystrophy,disease,Metabolic,57.96,-0.51,#B3ECF7,8.783
+321,Lipoma,disease,Cancer,5.295,-207.563,#CC6600,7.025
+322,Bone mineral density variability,disease,Bone,297.114,268.433,#C0BB56,6
+323,Exudative vitreoretinopathy,disease,Ophthamological,308.684,267.371,#993399,7.025
+324,Hyperostosis; endosteal,disease,Bone,301.59,258.637,#C0BB56,6
+325,Osteoporosis-pseudoglioma syndrome,disease,Bone,289.442,261.317,#C0BB56,6
+326,van Buchem disease,disease,Unclassified,293.225,251.474,#999999,6
+327,Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome,disease,Cancer,225.463,-149.379,#CC6600,6
+328,Dementia,disease,Neurological,-41.513,-119.905,#EE4444,9.824
+329,Pallidopontonigral degeneration,disease,Neurological,-60.031,-115.584,#EE4444,6
+330,Supranuclear palsy,disease,Neurological,-54.373,-124.569,#EE4444,6
+331,Tauopathy and respiratory failure,disease,Neurological,-50.985,-110.044,#EE4444,6
+332,Angelman syndrome,disease,Developmental,200.897,303.872,#B84BE7,6.373
+333,PPM-X syndrome,disease,Neurological,190.094,304.777,#EE4444,6
+334,Rett syndrome,disease,Neurological,212.069,303.164,#EE4444,6.373
+335,Adrenal adenoma,disease,Cancer,-34.44,-218.106,#CC6600,6
+336,Angiofibroma; sporadic,disease,Endocrine,-16.592,-223.161,#FFCC00,6
+337,Carcinoid tumor of lung,disease,Cancer,-25.937,-227.888,#CC6600,6
+338,Multiple endocrine neoplasia,disease,Cancer,-58.703,-217.329,#CC6600,6.373
+339,Parathyroid adenoma,disease,Cancer,-36.931,-228.584,#CC6600,6.373
+340,Prolactinoma; hyperparathyroidism; carcinoid syndrome,disease,Endocrine,-24.183,-215.813,#FFCC00,6
+341,Renal cell carcinoma,disease,Cancer,121.807,-216.7,#CC6600,10.947
+342,Bare lymphocyte syndrome,disease,Immunological,-34.842,-205.153,#339966,8.783
+343,Multiple sclerosis,disease,Neurological,-47.358,-234.18,#EE4444,6.373
+344,Tietz syndrome,disease,Multiple,235.334,-70.321,#C0BB56,6
+345,Waardenburg syndrome,disease,Multiple,229.649,-82.573,#C0BB56,7.843
+346,Cafe-au-lait spots,disease,Cancer,180.925,-173.275,#CC6600,6.373
+347,Muir-Torre syndrome,disease,Cancer,156.354,-170.584,#CC6600,6.373
+348,Pseudohypoaldosteronism,disease,Endocrine,-101.72,-171.844,#FFCC00,9.824
+349,Meningioma,disease,Cancer,179.405,-108.644,#CC6600,7.843
+350,Myeloperoxidase deficiency,disease,Immunological,-121.822,-107.293,#339966,6
+351,Roussy-Levy syndrome,disease,Multiple,274.107,-9.304,#C0BB56,6.373
+352,Lynch cancer family syndrome II,disease,Cancer,150.063,-123.4,#CC6600,6
+353,NeurofibromatosisI,disease,Cancer,131.952,-127.234,#CC6600,7.025
+354,Cleft palate,disease,Developmental,-253.238,244.869,#B84BE7,7.025
+355,Hypodontia,disease,Skeletal,-258.906,256.845,#FFFFCC,6.373
+356,Witkop syndrome,disease,Developmental,-265.028,247.338,#B84BE7,6
+357,Parietal foramina,disease,Skeletal,247.624,-226.072,#FFFFCC,6.373
+358,Neurofibrosarcoma,disease,Cancer,195.395,-86.663,#CC6600,6
+359,Central core disease,disease,Muscular,-19.212,224.622,#FF572D,6.373
+360,Carney complex,disease,Multiple,269.448,-155.044,#C0BB56,6.373
+361,Trismus-pseudocomptodactyly syndrome,disease,Multiple,280.365,-161.369,#C0BB56,6
+362,Epstein syndrome,disease,Hematological,-221.209,223.583,#99CC00,6
+363,Fechtner syndrome,disease,Multiple,-221.325,213.16,#C0BB56,6
+364,May-Hegglin anomaly,disease,Hematological,-230.381,218.285,#99CC00,6
+365,Sebastian syndrome,disease,Hematological,-232.159,208.014,#99CC00,6
+366,Usher syndrome,disease,Multiple,-239.209,118.325,#C0BB56,12.141
+367,Nijmegen breakage syndrome,disease,Multiple,73.418,-121.474,#C0BB56,6
+368,Coats disease,disease,Ophthamological,318,275.298,#993399,6
+369,Norrie disease,disease,Neurological,320.509,264.661,#EE4444,6
+370,NeurofibromatosisII,disease,Cancer,110.434,-133.057,#CC6600,6
+371,Neurobromatosis-Noonan syndrome,disease,Cancer,120.835,-134.574,#CC6600,6
+372,Watson syndrome,disease,Cancer,119.535,-145.039,#CC6600,6
+373,Schwannomatosis,disease,Cancer,154.775,-110.478,#CC6600,6
+374,Neuroblastoma,disease,Cancer,-98.809,-217.661,#CC6600,6.373
+375,Coronary spasms,disease,Cardiovascular,-100.96,-136.673,#0099FF,6
+376,Placental abruption,disease,Unclassified,-108.82,-144.043,#999999,6
+377,Retinal cone dsytrophy,disease,Ophthamological,-334.87,32.087,#993399,7.843
+378,Insensitivity to pain,disease,Neurological,-92.466,-230.456,#EE4444,6
+379,Medullary thyroid carcinoma,disease,Cancer,-87.111,-218.973,#CC6600,6.373
+380,Albinism,disease,Dermatological,244.882,-79.569,#FF9933,7.025
+381,Optic atrophy,disease,Ophthamological,169.166,211.413,#993399,6.373
+382,Leprosy,disease,Immunological,67.813,-210.903,#339966,6
+383,Craniofacial-deafness-hand syndrome,disease,Multiple,217.081,-79.215,#C0BB56,6
+384,Aniridia; type II,disease,Ophthamological,128.283,234.524,#993399,6
+385,Coloboma; ocular,disease,Ophthamological,142.46,215.525,#993399,6.373
+386,Eye anomalies,disease,Ophthamological,118.399,231.242,#993399,6
+387,Foveal hypoplasia,disease,Ophthamological,136.414,224.524,#993399,6
+388,Keratitis,disease,Ophthamological,138.873,234.822,#993399,6
+389,Morning glory disc anomaly,disease,Skeletal,126.034,223.918,#FFFFCC,6
+390,Optic nerve hypoplasia/aplasia,disease,Ophthamological,133.26,243.724,#993399,6
+391,Oligodontia,disease,Skeletal,-264.065,268.19,#FFFFCC,6
+392,Pyruvate dehydrogenase deciency,disease,Metabolic,-111.692,182.63,#B3ECF7,7.025
+393,Dermatobrosarcoma protuberans,disease,Cancer,184.793,-86.333,#CC6600,6
+394,Giant-cell fibroblastoma,disease,Cancer,171.178,-98.767,#CC6600,6
+395,Hypereosinophilic syndrome,disease,Hematological,97.65,-217.065,#99CC00,6
+396,Ossication of the posterior longitudinal spinal ligaments,disease,Connective tissue disorder,24.725,-103.078,#FFFF80,6
+397,Enlarged vestibular aqueduct,disease,Ear-Nose-Throat,-255.106,164.733,#66CCCC,6
+398,Pendred syndrome,disease,Ear-Nose-Throat,-254.958,154.142,#66CCCC,6
+399,Myoglobinuria/hemolysis due to PGK deciency,disease,Metabolic,55.819,129.304,#B3ECF7,6
+400,Emphysema,disease,Respiratory,-240.817,-143.086,#FF9999,6
+401,Ring dermoid of cornea,disease,Ophthamological,105.132,200.701,#993399,6
+402,Nevo syndrome,disease,Connective tissue disorder,273.401,243.314,#FFFF80,6
+403,Pelizaeus-Merzbacher disease,disease,Neurological,220.262,17.506,#EE4444,6
+404,Neuroectodermal tumors,disease,Multiple,156.22,-188.695,#C0BB56,6
+405,Insulin resistance,disease,Metabolic,65.37,-68.717,#B3ECF7,7.025
+406,Adrenocortical carcinoma,disease,Cancer,258.262,-154.188,#CC6600,6
+407,Myxoma; intracardiac,disease,Cardiovascular,264.536,-145.347,#0099FF,6
+408,Pigmented adrenocortical disease; primary isolated,disease,Cancer,257.515,-137.662,#CC6600,6
+409,Gerstmann-Straussler disease,disease,Neurological,38.166,-262.615,#EE4444,6
+410,Prion disease with protracted course,disease,Neurological,43.832,-271.507,#EE4444,6
+411,Hyperprolinemia,disease,Metabolic,-179.368,-166.466,#B3ECF7,6.373
+412,Pick disease,disease,Neurological,-75.995,-116.286,#EE4444,6
+413,Basal cell carcinoma,disease,Cancer,164.417,180.623,#CC6600,7.843
+414,Basal cell nevus syndrome,disease,Multiple,153.111,185.631,#C0BB56,6
+415,Holoprosencephaly,disease,Developmental,155.783,198.631,#B84BE7,8.783
+416,Bannayan-Riley-Ruvalcaba syndrome,disease,Unclassified,223.659,-106.972,#999999,6
+417,Lhermitte-Duclos syndrome,disease,Cancer,215.992,-100.115,#CC6600,6
+418,Oligodendroglioma,disease,Cancer,226.524,-116.96,#CC6600,6
+419,VATER association with hydrocephalus,disease,Multiple,221.788,-126.093,#C0BB56,6
+420,Leopard syndrome,disease,Multiple,44.178,-193.324,#C0BB56,6
+421,Noonan syndrome,disease,Developmental,38.245,-182.745,#B84BE7,6
+422,Zlotogora-Ogur syndrome,disease,Multiple,-241.546,245.263,#C0BB56,6
+423,Omenn syndrome,disease,Immunological,-87.375,-298.807,#339966,7.025
+424,Capillary malformations,disease,Cardiovascular,163.381,167.224,#0099FF,6
+425,Parkes Weber syndrome,disease,Multiple,173.478,170.796,#C0BB56,6
+426,Retinoblastoma,disease,Cancer,220.229,-162.359,#CC6600,6
+427,Butterfly dystrophy; retinal,disease,Ophthamological,-339.802,42.621,#993399,6
+428,Foveomacular dystrophy; adult-onset; with choroidal neovascularization,disease,Ophthamological,-329.81,45.594,#993399,6
+429,Hyperproreninemia,disease,Cardiovascular,-97.156,-126.063,#0099FF,6
+430,Colonic aganglionosis; total; with small bowel involvement,disease,Gastrointestinal,-82.411,-208.387,#CC9900,6
+431,Rh-mod syndrome,disease,Hematological,58.96,162.169,#99CC00,6
+432,Rh-negative blood type,disease,Hematological,47.705,78.649,#99CC00,6.373
+433,Bothnia retinal dystrophy,disease,Ophthamological,-310.212,56.708,#993399,6
+434,Newfoundland rod-cone dystrophy,disease,Ophthamological,-319.554,48.104,#993399,6
+435,Esophageal cancer,disease,Cancer,220.507,-246.514,#CC6600,7.843
+436,Coffin-Lowry syndrome,disease,Multiple,163.324,284.387,#C0BB56,6
+437,Cramps; potassium-aggravated,disease,Muscular,25.606,279.958,#FF572D,6
+438,Hyperkalemic periodic paralysis,disease,Neurological,16.881,287.129,#EE4444,6
+439,Paramyotonia congenita,disease,Muscular,17.234,273.709,#FF572D,6
+440,Brugada syndrome,disease,Cardiovascular,-133.678,229.88,#0099FF,6
+441,Heart block,disease,Cardiovascular,-123.567,236.048,#0099FF,6
+442,Sick sinus syndrome,disease,Cardiovascular,-138.372,239.3,#0099FF,6
+443,Ventricular brillation; idiopathic,disease,Cardiovascular,-129.349,244.839,#0099FF,6
+444,Liddle syndrome,disease,Renal,-114.469,-180.082,#CC0099,6.373
+445,Paragangliomas,disease,Cancer,129.399,-269.435,#CC6600,7.025
+446,Pheochromocytoma,disease,Cancer,129.458,-255.353,#CC6600,7.025
+447,Carcinoid tumors; intestinal,disease,Cancer,140.793,-271.469,#CC6600,6
+448,Merkel cell carcinoma,disease,Cancer,140.373,-260.785,#CC6600,6
+449,Solitary median maxillary central incisor,disease,Skeletal,143.224,203.704,#FFFFCC,6
+450,Fanconi-Bickel syndrome,disease,Metabolic,-32.193,-104.311,#B3ECF7,6
+451,Anxiety-related personality traits,disease,Psychiatric,-154.429,-195.692,#6699CC,6
+452,Creatine deciency syndrome; X-linked,disease,Neurological,157.928,273.641,#EE4444,6
+453,Infundibular hypoplasia and hypopituitarism,disease,Endocrine,182.176,295.913,#FFCC00,6
+454,PCWH,disease,Neurological,-125.438,-219.889,#EE4444,6
+455,Yemenite deaf-blind hypopigmentation syndrome,disease,Multiple,-133.742,-212.938,#C0BB56,6
+456,Pyropoikilocytosis,disease,Hematological,45.307,130.158,#99CC00,6
+457,Peutz-Jeghers syndrome,disease,Cancer,215.802,-113.73,#CC6600,6
+458,Hypoglycemia,disease,Metabolic,-24.188,-161.459,#B3ECF7,6
+459,Wegener granulomatosis,disease,Immunological,-46.428,-213.582,#339966,6
+460,Barth syndrome,disease,Multiple,-70.531,150.142,#C0BB56,6
+461,Noncompaction of left ventricular myocardium,disease,Cardiovascular,-53.643,147.787,#0099FF,6
+462,Glomerulocystic kidney disease; hypoplastic,disease,Renal,18.934,-149.582,#CC0099,6
+463,Autoimmune thyroid disease,disease,Endocrine,304.658,-137.099,#FFCC00,6
+464,Goiter,disease,Endocrine,313.93,-143.661,#FFCC00,6.373
+465,Loeys-Dietz syndrome,disease,Connective tissue disorder,207.991,-250.131,#FFFF80,6.373
+466,Self-healing collodion baby,disease,Dermatological,-103.159,377.979,#FF9933,6
+467,Thyroid hormone resistance,disease,Endocrine,325.475,-147.705,#FFCC00,6.373
+468,Sepsis,disease,Immunological,-29.534,-75.237,#339966,6.373
+469,Adrenal cortical carcinoma,disease,Cancer,154.424,-160.329,#CC6600,6
+470,Histiocytoma,disease,Cancer,161.424,-179.859,#CC6600,6
+471,Li-Fraumeni syndrome,disease,Cancer,209.543,-166.2,#CC6600,6.373
+472,Multiple malignancy syndrome,disease,Cancer,190.58,-169.448,#CC6600,6
+473,Nasopharyngeal carcinoma,disease,Cancer,165.261,-123.75,#CC6600,6
+474,Osteosarcoma,disease,Cancer,200.671,-172.305,#CC6600,6.373
+475,Hyperthyroidism,disease,Endocrine,320.655,-134.714,#FFCC00,6
+476,Total iodide organication defect,disease,Endocrine,330.774,-138.014,#FFCC00,6
+477,Hyperthroidism,disease,Endocrine,275.793,-142.885,#FFCC00,6
+478,Amyloid neuropathy,disease,Neurological,-228.104,-101.587,#EE4444,6
+479,Carpal tunnel syndrome; familial,disease,Unclassified,-236.093,-108.611,#999999,6
+480,Dystransthyretinemic hyperthyroxinemia,disease,Hematological,-227.718,-115.15,#99CC00,6
+481,Hemangioblastoma; cerebellar,disease,Cancer,113.347,-240.016,#CC6600,6
+482,Maculopathy; bull's-eye,disease,Ophthamological,-340.86,12.684,#993399,6
+483,Vitelliform macular dystrophy,disease,Ophthamological,-343.422,22.953,#993399,6
+484,Wiskott-Aldrich syndrome,disease,Immunological,-258.479,-162.344,#339966,6
+485,Denys-Drash syndrome,disease,Renal,263.163,-165.03,#CC0099,6
+486,Frasier syndrome,disease,Multiple,252.739,-166.761,#C0BB56,6
+487,Mesangial sclerosis,disease,Renal,268.301,-174.277,#CC0099,6
+488,WAGR syndrome,disease,Multiple,258.011,-176.598,#C0BB56,6
+489,Salivary adenoma,disease,Cancer,-4.063,-215.817,#CC6600,6
+490,Uterine leiomyoma,disease,Cancer,5.844,-220.133,#CC6600,6
+491,Miyoshi myopathy,disease,Muscular,-29.61,221.156,#FF572D,6
+492,Oligodontia-colorectal cancer syndrome,disease,Cancer,209.864,-177.891,#CC6600,6
+493,Incontinentia pigmenti,disease,Dermatological,-229.661,242.508,#FF9933,6
+494,Medulloblastoma,disease,Cancer,152.906,172.654,#CC6600,6.373
+495,Arthropathy,disease,Bone,-319.997,237.822,#C0BB56,6
+496,Mesothelioma,disease,Cancer,141.098,-175.881,#CC6600,6
+497,Sezary syndrome,disease,Cancer,133.214,-182.378,#CC6600,6
+498,Myotilinopathy,disease,Muscular,-39.798,248.285,#FF572D,6
+499,Enhanced S-cone syndrome,disease,Ophthamological,-294.847,66.26,#993399,6
+500,Netherton syndrome,disease,Dermatological,-23.293,-87.443,#FF9933,6
+501,Pigmented paravenous chorioretinal atrophy,disease,Ophthamological,-289.817,-8.421,#993399,6
+502,Silver spastic paraplegia syndrome,disease,Neurological,116.375,-14.06,#EE4444,6
+503,Craniofacial anomalies; empty sella turcica; corneal endothelial changes,disease,Multiple,-281.031,-79.874,#C0BB56,6
+504,Keratoconus,disease,Ophthamological,-276.874,-69.983,#993399,6
+505,Immunodysregulation; polyendocrinopathy; and enteropathy; X-linked,disease,Multiple,9.715,-154.517,#C0BB56,6
+506,IgE levels QTL,disease,Immunological,-26.612,-60.646,#339966,6
+507,Wolff-Parkinson-White syndrome,disease,Cardiovascular,-62.969,142.882,#0099FF,6
+508,Asperger syndrome,disease,Psychiatric,193.878,294.647,#6699CC,6.373
+509,Primary lateral sclerosis,disease,Neurological,196.244,-3.95,#EE4444,6
+510,3-methylglutaconicaciduria,disease,Metabolic,176.946,201.505,#B3ECF7,6
+511,Convulsions,disease,Neurological,-254.089,111.238,#EE4444,6
+512,Infantile spasm syndrome,disease,Neurological,190.624,207.278,#EE4444,6
+513,Partington syndrome,disease,Neurological,185.153,221.379,#EE4444,6
+514,Proud syndrome,disease,Multiple,180.963,211.724,#C0BB56,6
+515,Birt-Hogg-Dube syndrome,disease,Dermatological,134.463,-221.615,#FF9933,6
+516,Pneumothorax; primary spontaneous,disease,Respiratory,128.215,-229.923,#FF9999,6

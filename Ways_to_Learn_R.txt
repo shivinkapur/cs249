@@ -1,0 +1,34 @@
+
+Some good resources for learning R:
+
+
+-- A great place to start is at the R project site:  http://r-project.org
+
+   There is an excellent "Introduction to R" among the many R manuals at:
+      http://cran.r-project.org/manuals.html
+   
+      There is even a translation of the Introduction to R in Chinese:
+      http://www.biosino.org/R/R-doc/
+   
+   The site also has a list of short R tutorial writeups
+      (many in languages other than English) at:
+      http://cran.r-project.org/other-docs.html
+   
+   This site also lists other documentation, including books about R:
+      http://www.r-project.org/other-docs.html
+   
+
+-- There are good tutorial videos about R online.
+
+   A nice sequence of tutorial videos by developers.google.com is at:
+      https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP
+
+
+-- If you want more advanced how-to books, with code snippets and
+   semi-real demos, O'Reilly has a large set of books about R:
+
+   http://search.oreilly.com/?q=R
+
+   UCLA used to have free access to Safari, O'Reilly's online access portal:
+   http://learnit.ucla.edu/safari
+

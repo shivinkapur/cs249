@@ -1,0 +1,792 @@
+Rank,"Institution",State,2008 Endowment,2007 Endowment,Percent Change
+1,"Harvard",MA,36556284,34634906,5.5
+2,"Yale",CT,22869700,22530200,1.5
+3,"Stanford",CA,17200000,17164836,0.2
+4,"Princeton",NJ,16349329,15787200,3.6
+5,"Texas",TX,16111184,15613672,3.2
+6,"MIT",MA,10068800,9980410,0.9
+7,"Michigan",MI,7571904,7089830,6.8
+8,"Northwestern",IL,7243948,6503292,11.4
+9,"Columbia",NY,7146806,7149803,0.0
+10,"Texas A&M",TX,6659352,6590300,1.0
+11,"U Chicago",IL,6632311,6204189,6.9
+12,"U Penn",PA,6233281,6635187,-6.1
+13,"Notre Dame",IN,6225688,5976973,4.2
+14,"UC System",CA,6217340,6439436,-3.4
+15,"Duke",NC,6123743,5910280,3.6
+16,"Emory",GA,5472528,5561743,-1.6
+17,"Cornell",NY,5385482,5247097,2.6
+18,"Washington",MO,5350470,5567843,-3.9
+19,"Rice",TX,4610164,4669544,-1.3
+20,"Virginia",VA,4572613,4370209,4.6
+21,"Dartmouth",NH,3660159,3760234,-2.7
+22,"USC",CA,3589225,3715272,-3.4
+23,"Vanderbilt",TN,3524338,3519753,0.1
+24,"Minnesota",MN,2750770,2804466,-1.9
+25,"Brown",RI,2746832,2633924,4.3
+26,"Johns Hopkins",MD,2524575,2800377,-9.8
+27,"New York",NY,2475200,2161800,14.5
+28,"UNC Chapel Hill",NC,2358676,2164444,9.0
+29,"Pitt",PA,2333602,2254379,3.5
+30,"Washington",WA,2262149,2184374,3.6
+31,"Ohio State",OH,2075853,2338103,-11.2
+32,"Rockefeller U",NY,2020647,2144271,-5.8
+33,"Cal Tech",CA,1891523,1860052,1.7
+34,"Williams",MA,1808280,1892055,-4.4
+35,"Pomona College",CA,1794453,1760902,1.9
+36,"Case Western Reserve",OH,1766478,1841234,-4.1
+37,"Purdue",IN,1735660,1786592,-2.9
+38,"Wisconsin",WI,1735456,1645250,5.5
+39,"U Rochester",NY,1730772,1726318,0.3
+40,"Amherst College",MA,1705917,1662377,2.6
+41,"U Richmond",VA,1704350,1654988,3.0
+42,"U Toronto",ON,1702481,1763764,-3.5
+43,"Boston College",MA,1630626,1670092,-2.4
+44,"Wellesley",MA,1611319,1656565,-2.7
+45,"Indiana",IN,1546469,1556853,-0.7
+46,"Pennsylvania State",PA,1545314,1590000,-2.8
+47,"Grinnell College",IA,1472448,1718313,-14.3
+48,"U Illinois",IL,1459967,1515387,-3.7
+49,"Tufts",MA,1445662,1452058,-0.4
+50,"Swarthmore",PA,1412609,1441232,-2.0
+51,"Southern Methodist",TX,1367744,1327816,3.0
+52,"Smith",MA,1365792,1360966,0.4
+53,"Yeshiva",NY,1344701,1409576,-4.6
+54,"Georgia Tech",GA,1343503,1281162,4.9
+55,"U Delaware",DE,1340145,1397492,-4.1
+56,"Michigan State",MI,1282073,1247713,2.8
+57,"Texas Christian",TX,1260145,1187057,6.2
+58,"George Washington U",DC,1256433,1147451,9.5
+59,"Wake Forest",NC,1253673,1248695,0.4
+60,"Florida",FL,1250603,1219026,2.6
+61,"Nebraska",NE,1221331,1277169,-4.4
+62,"Kansas",KS,1217919,1238695,-1.7
+63,"Oklahoma 1",OK,1154794,1114426,3.6
+64,"Boston",MA,1144996,1101386,4.0
+65,"Lehigh",PA,1126942,1085639,3.8
+66,"Cincinnati",OH,1099127,1185400,-7.3
+67,"Baylor",TX,1091814,1278011,-14.6
+68,"U British Columbia",BC,1068981,1013532,5.5
+69,"Carnegie Mellon",PA,1067728,1115740,-4.3
+70,"Baylor",TX,1059646,1018012,4.1
+71,"Georgetown",DC,1059075,1059343,0.0
+72,"UCLA",CA,1054119,975295,8.1
+73,"Tulane",LA,1035711,1009129,2.6
+74,"Trinity University (TX)",TX,1034659,991112,4.4
+75,"Missouri",MO,1024892,1097846,-6.6
+76,"Berea College",KY,1023255,1102272,-7.2
+77,"Princeton Theological Seminary",NJ,1017643,1108515,-8.2
+78,"Alabama",AL,997956,999816,-0.2
+79,"Syracuse",NY,984779,1086143,-9.3
+80,"Iowa",IA,935453,982428,-4.8
+81,"Kentucky",KY,908654,957608,-5.1
+82,"Tennessee",TN,887411,954376,-7.0
+83,"Middlebury College",VT,885389,936354,-5.4
+84,"Saint Louis",MO,879908,959486,-8.3
+85,"UC Berkeley",CA,871698,837011,4.1
+86,"Colorado",CO,870081,774147,12.4
+87,"McGill",QC,868580,863405,0.6
+88,"Arkansas",AR,856049,876839,-2.4
+89,"Maryland",MD,854456,810374,5.4
+90,"Vassar",NY,848717,869122,-2.3
+91,"U Tulsa",OK,836790,915320,-8.6
+92,"Bowdoin",ME,831469,827714,0.5
+93,"U Louisville",KY,793930,796812,-0.4
+94,"RPI",NY,793323,812996,-2.4
+95,"Texas Tech",TX,792782,641640,23.6
+96,"Oberlin",OH,760735,816135,-6.8
+97,"U Miami",FL,736239,741382,-0.7
+98,"The Principia Corporation",MO,735016,776864,-5.4
+99,"Washington & Lee",VA,718907,692797,3.8
+100,"Brandeis",MA,712446,691370,3.0
+101,"U Alberta",AB,710902,722539,-1.6
+102,"Colgate",NY,703968,709047,-0.7
+103,"Pepperdine",CA,700004,734924,-4.8
+104,"Denison",OH,686595,638939,7.5
+105,"Lafayette College",PA,682673,734421,-7.0
+106,"Washington State",WA,678553,650903,4.2
+107,"Santa Clara",CA,676072,697881,-3.1
+108,"U Houston",TX,674036,653294,3.2
+109,"Hamilton College",NY,670321,703481,-4.7
+110,"Bryn Mawr",PA,668439,663626,0.7
+111,"Rochester Institute of Technology",NY,667917,656218,1.8
+112,"Macalester College",MN,664672,675987,-1.7
+113,"Mount Holyoke",MA,662904,615376,7.7
+114,"Northeastern",MA,657866,679926,-3.2
+115,"Berry College",GA,656543,683253,-3.9
+116,"Wesleyan",CT,652208,710800,-8.2
+117,"Carleton College",MN,647822,663500,-2.4
+118,"Rutgers",NJ,639737,654184,-2.2
+119,"LSU",LA,633616,656710,-3.5
+120,"College of the Holy Cross",MA,629259,658855,-4.5
+121,"Queens",ON,624547,614739,1.6
+122,"Oklahoma State",OK,617028,468735,31.6
+123,"Colby College",ME,600248,598729,0.3
+124,"Cooper Union",NY,600092,598202,0.3
+125,"Utah",UT,594545,610469,-2.6
+126,"Georgia",GA,592593,618838,-4.2
+127,"College of William & Mary",VA,580037,585904,-1.0
+128,"Florida State",FL,570730,548994,4.0
+129,"Thomas Jefferson",PA,568726,614338,-7.4
+130,"Iowa State",IA,568674,592368,-4.0
+131,"Furman",SC,560044,544610,2.8
+132,"Bucknell",PA,554593,599399,-7.5
+133,"Drexel",PA,547922,628467,-12.8
+134,"North Carolina State",NC,544551,535003,1.8
+135,"DePauw",IN,539851,554051,-2.6
+136,"SUNY Buffalo",NY,535578,566362,-5.4
+137,"Claremont McKenna College",CA,527854,474022,11.4
+138,"Virginia Tech",VA,527629,524731,0.6
+139,"Haverford College",PA,521308,539589,-3.4
+140,"U Arizona",AZ,518709,532351,-2.6
+141,"Davidson College",NC,500573,489461,2.3
+142,"Howard",DC,497680,523690,-5.0
+143,"The American University In Cairo",NY,494196,521564,-5.2
+144,"Arizona State",AZ,493015,478385,3.1
+145,"Colorado College",CO,492411,523228,-5.9
+146,"Medical College of Wisconsin",WI,474956,507065,-6.3
+147,"Mississippi",MS,472373,494774,-4.5
+148,"Oregon",OR,470515,455583,3.3
+149,"Franklin W. Olin College",MA,469570,482662,-2.7
+150,"UC San Francisco",CA,468463,470568,-0.4
+151,"Oregon Health Sciences",OR,453541,448489,1.1
+152,"Fordham",NY,437176,455374,-4.0
+153,"West Virginia University",WV,429737,436931,-1.6
+154,"Oregon State University",OR,428382,441230,-2.9
+155,"Reed College",OR,427323,455705,-6.2
+156,"U South Carolina",SC,425150,438514,-3.0
+157,"Auburn",AL,423412,420840,0.6
+158,"Clemson",SC,421299,430020,-2.0
+159,"Trinity College (CT)",CT,413611,440195,-6.0
+160,"Miami University (OH)",OH,404674,409271,-1.1
+161,"American",DC,393794,396844,-0.8
+162,"Union College (NY)",NY,391260,369921,5.8
+163,"U Dayton",OH,391101,410355,-4.7
+164,"Whitman College",WA,387566,391366,-1.0
+165,"Worcester Polytechnic Institute",MA,384754,404745,-4.9
+166,"U Massachusetts",MA,381396,350216,8.9
+167,"Creighton",NE,379207,408311,-7.1
+168,"Rhode Island School of Design",RI,374651,380033,-1.4
+169,"Loyola Marymount",CA,373212,371395,0.5
+170,"Loyola U Chicago",IL,372526,373211,-0.2
+171,"Wabash College",IN,367656,413212,-11.0
+172,"St. John's University (NY)",NY,363802,366660,-0.8
+173,"Rollins College",FL,360365,366594,-1.7
+174,"U South Florida",FL,360035,388516,-7.3
+175,"Occidental College",CA,359954,378040,-4.8
+176,"Marquette",WI,357300,360250,-0.8
+177,"Villanova",PA,355255,335734,5.8
+178,"UC San Diego",CA,353074,356509,-1.0
+179,"College of the Ozarks",MO,352924,366239,-3.6
+180,"Spelman College",GA,351706,340261,3.4
+181,"U St. Thomas (MN)",MN,350965,359350,-2.3
+182,"Kansas State University",KS,346398,346360,0.0
+183,"National",CA,346161,341231,1.4
+184,"VMI",VA,343516,394848,-13.0
+185,"U New Mexico",NM,342648,336926,1.7
+186,"Franklin and Marshall College",PA,335449,362871,-7.6
+187,"U Wisconsin",WI,330790,351914,-6.0
+188,"Virginia Commonwealth",VA,330482,329199,0.4
+189,"U Connecticut",CT,328132,337945,-2.9
+190,"St. Olaf College",MN,325020,321063,1.2
+191,"Wheaton College (IL)",IL,321930,362830,-11.3
+192,"Georgia Institute of Technology",GA,320151,327520,-2.2
+193,"De Paul",IL,314743,344727,-8.7
+194,"U the South",TN,313206,314885,-0.5
+195,"Ohio",OH,311880,242812,28.4
+196,"Dickinson College",PA,307760,287731,7.0
+197,"Agnes Scott College",GA,307427,328684,-6.5
+198,"U New Hampshire",NH,307054,284630,7.9
+199,"Lebanese American",NY,306634,298746,2.6
+200,"Loyola U New Orleans",LA,306558,357558,-14.3
+201,"Samford",AL,306382,301044,1.8
+202,"Academy of the New Church",PA,302815,364358,-16.9
+203,"U Denver",CO,300414,277465,8.3
+204,"U Wyoming",WY,298527,304170,-1.9
+205,"Skidmore College",NY,296330,287319,3.1
+206,"U South Alabama (USA)",AL,290948,318769,-8.7
+207,"Abilene Christian",TX,284269,279735,1.6
+208,"Clark",MA,282038,290020,-2.8
+209,"Rhodes College",TN,281512,288906,-2.6
+210,"Mississippi State",MS,280711,280350,0.1
+211,"U Alaska",AK,277849,310802,-10.6
+212,"Regent",VA,273890,277633,-1.3
+213,"College of Wooster",OH,272693,273343,-0.2
+214,"Scripps College",CA,270866,274415,-1.3
+215,"U San Diego",CA,268155,256472,4.6
+216,"Willamette",OR,267261,268448,-0.4
+217,"Bates College",ME,267232,275557,-3.0
+218,"Fairfield",CT,262934,268758,-2.2
+219,"Illinois Institute of Technology",IL,258487,223332,15.7
+220,"Gettysburg College",PA,258118,270319,-4.5
+221,"UC Irvine",CA,250557,234024,7.1
+222,"Harvey Mudd College",CA,249256,260809,-4.4
+223,"St. Lawrence",NY,244832,269194,-9.0
+224,"U Puget Sound",WA,244480,259302,-5.7
+225,"Wayne State",MI,242275,236659,2.4
+226,"Drew",NJ,237480,268348,-11.5
+227,"U Nevada Reno",NV,237198,240328,-1.3
+228,"Temple",PA,237012,236712,0.1
+229,"Hampton",VA,235872,256990,-8.2
+230,"Ithaca College",NY,235283,233802,0.6
+231,"Loma Linda",CA,234603,245301,-4.4
+232,"Lewis and Clark College",OR,231217,224491,3.0
+233,"Quinnipiac",CT,228456,223020,2.4
+234,"Bradley",IL,226992,241135,-5.9
+235,"Bentley College",MA,224944,249599,-9.9
+236,"Hofstra",NY,222731,226304,-1.6
+237,"Berklee College of Music",MA,219785,220548,-0.3
+238,"Lawrence University (WI)",WI,216466,231740,-6.6
+239,"Babson College",MA,216377,220062,-1.7
+240,"Seattle",WA,216101,214771,0.6
+241,"Barnard College",NY,215744,207301,4.1
+242,"U San Francisco",CA,215584,216171,-0.3
+243,"Connecticut College",CT,215536,225045,-4.2
+244,"The New School",NY,213986,232239,-7.9
+245,"Teachers College Columbia",NY,213713,219670,-2.7
+246,"U Memphis",TN,213503,223756,-4.6
+247,"University at Buffalo",NY,213321,219538,-2.8
+248,"Mills College",CA,210556,233739,-9.9
+249,"The Citadel",SC,205829,216214,-4.8
+250,"Seton Hall",NJ,203254,230105,-11.7
+251,"Chapman",CA,202059,205260,-1.6
+252,"Goucher College",MD,200137,203895,-1.8
+253,"Valparaiso",IN,199045,192973,3.1
+254,"Wichita State",KS,196393,189337,3.7
+255,"Rose-Hulman Institute of Technology",IN,193727,198995,-2.6
+256,"Mercer",GA,191396,201688,-5.1
+257,"Centre College of Kentucky",KY,191326,205850,-7.1
+258,"Lesley College",MA,190327,94837,100.7
+259,"Ball State University",IN,189652,198062,-4.2
+260,"Kenyon College",OH,188696,192934,-2.2
+261,"Western Michigan University",MI,187997,197742,-4.9
+262,"Claremont Graduate",CA,187694,203457,-7.7
+263,"Wheaton College (MA)",MA,186753,191284,-2.4
+264,"U North Carolina at Greensboro",NC,184017,183751,0.1
+265,"Colorado State University",CO,183442,186464,-1.6
+266,"Miami Dade College",FL,183130,201195,-9.0
+267,"Illinois Wesleyan",IL,182476,190471,-4.2
+268,"Florida Atlantic University",FL,182306,190212,-4.2
+269,"Simmons College",MA,182186,193556,-5.9
+270,"Albion College",MI,180737,193099,-6.4
+271,"U Akron",OH,178278,192755,-7.5
+272,"Old Dominion",VA,177885,177844,0.0
+273,"Hendrix College",AR,177273,192182,-7.8
+274,"John Carroll",OH,177145,179534,-1.3
+275,"Curtis Institute of Music",PA,176431,182248,-3.2
+276,"U Idaho",ID,176145,188675,-6.6
+277,"U Toledo",OH,175578,183920,-4.5
+278,"Hobart and William Smith Colleges",NY,174825,174319,0.3
+279,"Ohio Northern",OH,174623,181041,-3.5
+280,"New Mexico State",NM,173395,175683,-1.3
+281,"Columbia Theological Seminary",GA,170071,183546,-7.3
+282,"Clarkson",NY,169894,177962,-4.5
+283,"Loyola College (MD)",MD,169362,181530,-6.7
+284,"Bryant",RI,168494,174992,-3.7
+285,"California Polytechnic State",CA,166179,181723,-8.6
+286,"Colorado School of Mines",CO,164999,175022,-5.7
+287,"Youngstown State",OH,164859,172960,-4.7
+288,"U Guelph",ON,163173,162603,0.4
+289,"Wofford College",SC,162511,168090,-3.3
+290,"Duquesne",PA,161299,174670,-7.7
+291,"Medical U South Carolina",SC,160917,150311,7.1
+292,"U Maine",ME,159033,163474,-2.7
+293,"Allegheny College",PA,157007,158414,-0.9
+294,"UC Davis",CA,157005,140667,11.6
+295,"Kalamazoo College",MI,156927,172198,-8.9
+296,"Hope College",MI,156185,168795,-7.5
+297,"Randolph College",VA,155775,155601,0.1
+298,"Providence College",RI,154244,158385,-2.6
+299,"Rowan University",NJ,153898,168020,-8.4
+300,"Butler",IN,152886,162671,-6.0
+301,"Saint Joseph's",PA,152024,142508,6.7
+302,"Hanover College",IN,150244,168715,-10.9
+303,"Stonehill College",MA,149675,162191,-7.7
+304,"Saint Mary's College of California",CA,148147,162526,-8.8
+305,"U North Carolina at Charlotte",NC,147753,147174,0.4
+306,"Asbury Theological Seminary",KY,147140,153699,-4.3
+307,"St. Mary's University (TX)",TX,147054,154340,-4.7
+308,"U the Sciences in Philadelphia",PA,145652,149174,-2.4
+309,"Utah State",UT,145599,130544,11.5
+310,"St. John's University (MN)",MN,145233,139700,4.0
+311,"Drake",IA,141175,152148,-7.2
+312,"Austin College",TX,140823,144743,-2.7
+313,"Muhlenberg College",PA,138267,135425,2.1
+314,"Inter American U Puerto Rico",PR,136897,149121,-8.2
+315,"Washburn",KS,136597,150209,-9.1
+316,"Hampden-Sydney College",VA,134924,142375,-5.2
+317,"Bowling Green State",OH,134515,140766,-4.4
+318,"Siena College",NY,134375,139910,-4.0
+319,"Saint Mary's College (IN)",IN,133171,132102,0.8
+320,"Lycoming College",PA,132742,135068,-1.7
+321,"Beloit College",WI,131877,117708,12.0
+322,"Baldwin-Wallace College",OH,130276,142634,-8.7
+323,"Buena Vista",IA,129207,155564,-16.9
+324,"Medical College of Georgia",GA,128396,133971,-4.2
+325,"Stetson",FL,125079,137556,-9.1
+326,"Xavier University (OH)",OH,124523,124915,-0.3
+327,"Messiah College",PA,123986,127735,-2.9
+328,"U Redlands",CA,122971,125950,-2.4
+329,"Randolph-Macon College",VA,122955,131825,-6.7
+330,"Transylvania",KY,121442,144446,-15.9
+331,"Illinois College",IL,121012,135616,-10.8
+332,"Austin Presbyterian Theological Seminary",TX,120823,129123,-6.4
+333,"Mount Union College",OH,120489,131569,-8.4
+334,"Hollins",VA,120269,126965,-5.3
+335,"U Montana",MT,119955,123528,-2.9
+336,"Wittenberg",OH,119011,121320,-1.9
+337,"U South Dakota",SD,119000,118829,0.1
+338,"Pace",NY,118836,121931,-2.5
+339,"Centenary College of Louisiana",LA,118619,126249,-6.0
+340,"Susquehanna",PA,117348,126551,-7.3
+341,"Christian Theological Seminary",IN,115325,118652,-2.8
+342,"Luther College",IA,115273,113807,1.3
+343,"San Diego State",CA,115090,99853,15.3
+344,"U Central Florida",FL,114990,116291,-1.1
+345,"Philadelphia College of Osteopathic Medicine",PA,114953,119781,-4.0
+346,"SUNY Stony Brook",NY,113204,104574,8.3
+347,"U Scranton",PA,112165,120073,-6.6
+348,"Hardin-Simmons",TX,112156,106379,5.4
+349,"Augustana College (IL)",IL,110991,118485,-6.3
+350,"U Tennessee at Chattanooga",TN,109786,122259,-10.2
+351,"Alfred",NY,109090,114349,-4.6
+352,"Gustavus Adolphus College",MN,108977,114042,-4.4
+353,"Montana State University",MT,107368,110358,-2.7
+354,"Goshen College",IN,106264,121076,-12.2
+355,"Suffolk",MA,105825,102198,3.5
+356,"California State University Fresno",CA,104645,112901,-7.3
+357,"Western Kentucky",KY,104579,102155,2.4
+358,"U Georgia and Arch",GA,104562,86478,20.9
+359,"Ursinus College",PA,104348,116005,-10.0
+360,"Roger Williams",RI,103608,114565,-9.6
+361,"Columbia College Chicago",IL,103442,112326,-7.9
+362,"California Institute of the Arts",CA,103197,108932,-5.3
+363,"Adelphi",NY,102939,106507,-3.4
+364,"McCormick Theological Seminary",IL,102921,111556,-7.7
+365,"The Fuller",CA,102354,96228,6.4
+366,"U Hartford",CT,101481,109295,-7.1
+367,"Calvin College",MI,101387,97596,3.9
+368,"Alma College",MI,100995,112881,-10.5
+369,"Birmingham-Southern College",AL,100563,113090,-11.1
+370,"Pitzer College",CA,100131,106364,-5.9
+371,"New England Conservatory of Music",MA,99888,84198,18.6
+372,"Harding",AR,99304,99224,0.1
+373,"Georgia State University",GA,98634,97648,1.0
+374,"Washington and Jefferson College",PA,98631,101567,-2.9
+375,"Elmhurst College",IL,97945,95729,2.3
+376,"Florida International",FL,97064,91876,5.6
+377,"Cottey College",MO,95497,97426,-2.0
+378,"Sweet Briar College",VA,95439,103136,-7.5
+379,"U North Florida",FL,95209,88785,7.2
+380,"East Carolina",NC,95041,90425,5.1
+381,"U Portland",OR,94511,96315,-1.9
+382,"Texas State University-San Marcos",TX,93314,82539,13.1
+383,"Westminster College (PA)",PA,93232,100298,-7.0
+384,"St. Louis College of Pharmacy",MO,93170,94168,-1.1
+385,"Albertson College of Idaho",ID,93107,52738,76.5
+386,"Moravian College",PA,92921,93920,-1.1
+387,"Whitworth College",WA,92849,86801,7.0
+388,"Wentworth Institute of Technology",MA,91071,91135,-0.1
+389,"U South Alabama",AL,90905,68829,32.1
+390,"Angelo State",TX,90386,85566,5.6
+391,"U North Texas",TX,89967,89498,0.5
+392,"Millsaps College",MS,89169,98676,-9.6
+393,"Franklin College of Indiana",IN,89030,89581,-0.6
+394,"Millikin",IL,88739,91838,-3.4
+395,"Presbyterian College",SC,88254,99487,-11.3
+396,"U Rhode Isl",RI,88028,95069,-7.4
+397,"Saint Anselm College",NH,86907,91737,-5.3
+398,"Long Island",NY,86819,91049,-4.6
+399,"Doane College",NE,85941,92712,-7.3
+400,"East Tennessee State University",TN,85908,87860,-2.2
+401,"U the Ozarks",AR,85476,95113,-10.1
+402,"The Marshall University",WV,85065,88623,-4.0
+403,"Emmanuel College",MA,84427,80133,5.4
+404,"Garrett-Evangelical Theological Seminary",IL,84167,91057,-7.6
+405,"Pratt Institute",NY,83865,87901,-4.6
+406,"U Evansville",IN,83160,84789,-1.9
+407,"Widener",PA,81933,85790,-4.5
+408,"Central College",IA,81914,82138,-0.3
+409,"UC Riverside",CA,81552,80405,1.4
+410,"Lynchburg College",VA,81295,84521,-3.8
+411,"McDaniel College",MD,80926,89697,-9.8
+412,"Wright State University",OH,80265,89075,-9.9
+413,"U Northern Colorado",CO,80169,82964,-3.4
+414,"Elon",NC,79895,78526,1.7
+415,"Michigan Technological",MI,79390,78991,0.5
+416,"Southern Illinois University",IL,79151,85426,-7.3
+417,"Simpson College (IA)",IA,79077,79912,-1.0
+418,"Coe College",IA,78785,78571,0.3
+419,"North Central College",IL,78598,78813,-0.3
+420,"Meharry Medical College",TN,77955,78421,-0.6
+421,"Sarah Lawrence College",NY,77939,72209,7.9
+422,"Whittier College",CA,77857,79966,-2.6
+423,"Canisius College",NY,77715,81830,-5.0
+424,"Illinois State University",IL,77575,78966,-1.8
+425,"Ouachita Baptist",AR,77384,77316,0.1
+426,"Concordia College",MN,77033,80862,-4.7
+427,"Central Michigan",MI,77009,82304,-6.4
+428,"Westmont College",CA,76978,79541,-3.2
+429,"Lake Forest College",IL,76801,73272,4.8
+430,"Sacred Heart",CT,76055,69472,9.5
+431,"Taylor",IN,75478,76810,-1.7
+432,"Hamline",MN,74623,82924,-10.0
+433,"Lipscomb",TN,74276,81030,-8.3
+434,"Guilford College",NC,73658,75491,-2.4
+435,"Saint Michael's College",VT,73125,77168,-5.2
+436,"Hiram College",OH,72618,77750,-6.6
+437,"Boise State University",ID,72259,74008,-2.4
+438,"St. Francis College",NY,71515,78296,-8.7
+439,"Knox College",IL,71423,79473,-10.1
+440,"Converse College",SC,71405,64648,10.5
+441,"Niagara",NY,70917,75249,-5.8
+442,"U Indianapolis",IN,70895,77212,-8.2
+443,"Pacific Lutheran",WA,70674,69197,2.1
+444,"New Jersey Institute of Technology",NJ,70638,70644,0.0
+445,"Juniata College",PA,70533,71127,-0.8
+446,"Oregon University",OR,70394,82653,-14.8
+447,"U Dubuque",IA,70374,72818,-3.4
+448,"Linfield College",OR,70178,73142,-4.1
+449,"Northwood",MI,69686,74775,-6.8
+450,"Assumption College",MA,69591,68857,1.1
+451,"Monmouth College (IL)",IL,69531,73704,-5.7
+452,"Belmont",TN,69520,61962,12.2
+453,"Texas Lutheran",TX,68283,69022,-1.1
+454,"Emporia State University",KS,68250,69912,-2.4
+455,"St. Norbert College",WI,67844,71060,-4.5
+456,"Cornell College",IA,67171,70342,-4.5
+457,"Marietta College",OH,67154,71291,-5.8
+458,"SUNY Binghamton",NY,67060,68971,-2.8
+459,"Florida Southern College",FL,67056,70332,-4.7
+460,"Valencia Community College",FL,66873,68004,-1.7
+461,"Oklahoma Christian",OK,66251,67592,-2.0
+462,"Roosevelt",IL,66125,70871,-6.7
+463,"Franklin",OH,65850,63041,4.5
+464,"College of Charleston",SC,65641,62912,4.3
+465,"St. Vincent College",PA,65325,58256,12.1
+466,"Queens U Charlotte",NC,65258,65272,0.0
+467,"La Salle",PA,65169,65669,-0.8
+468,"John Brown",AR,64995,66457,-2.2
+469,"U the Incarnate Word",TX,64820,55065,17.7
+470,"Muskingum College",OH,64307,63967,0.5
+471,"Wilson College",PA,64145,66004,-2.8
+472,"LaGrange College",GA,63725,67482,-5.6
+473,"Hartwick College",NY,63672,66873,-4.8
+474,"Lamar",TX,63157,33526,88.4
+475,"Westminster College of Salt Lake City",UT,62926,63508,-0.9
+476,"Grand Valley State",MI,62895,61745,1.9
+477,"Northern Arizona University",AZ,62347,58605,6.4
+478,"Embry-Riddle Aeronautical",FL,62346,60025,3.9
+479,"Palm Beach Atlantic",FL,62269,60595,2.8
+480,"Appalachian State",NC,61954,62245,-0.5
+481,"Lenoir-Rhyne College",NC,61925,58887,5.2
+482,"McMurry",TX,61412,62859,-2.3
+483,"U West Florida",FL,61353,64239,-4.5
+484,"Kettering",MI,61030,64998,-6.1
+485,"U St. Thomas (TX)",TX,60900,56715,7.4
+486,"King's College (PA)",PA,60794,60743,0.1
+487,"U the Cumberlands",KY,60727,61759,-1.7
+488,"New York Medical College",NY,60606,64491,-6.0
+489,"Capital",OH,60359,63382,-4.8
+490,"Morehouse School of Medicine",GA,60352,56385,7.0
+491,"Nazareth College of Rochester",NY,60198,61409,-2.0
+492,"Jacksonville",FL,60068,60865,-1.3
+493,"Hood College",MD,59633,59420,0.4
+494,"Chatham College",PA,59231,64085,-7.6
+495,"Bridgewater College",VA,58238,61536,-5.4
+496,"Middle Tennessee State",TN,57866,34673,66.9
+497,"St. Edward's",TX,57219,63007,-9.2
+498,"Webb Institute",NY,57034,59944,-4.9
+499,"Rider",NJ,56826,61600,-7.8
+500,"Wesleyan College",GA,56623,50902,11.2
+501,"East Texas Baptist",TX,56092,54729,2.5
+502,"Ripon College",WI,55539,59421,-6.5
+503,"California State University Northridge",CA,55379,60227,-8.0
+504,"Biola",CA,55317,53957,2.5
+505,"Tennessee Technological",TN,55132,58812,-6.3
+506,"Pittsburg State",KS,55106,59216,-6.9
+507,"Eastern Kentucky University",KY,55092,55455,-0.7
+508,"U North Carolina at Wilmington",NC,55083,50794,8.4
+509,"Monmouth",NJ,54240,49209,10.2
+510,"Missouri State University",MO,54101,55803,-3.1
+511,"California Lutheran",CA,53972,56727,-4.9
+512,"George Mason",VA,53327,54562,-2.3
+513,"Indiana Wesleyan",IN,53315,46639,14.3
+514,"Marine Biological Laboratory",MA,53273,55798,-4.5
+515,"SUNY Health Science Center at Syracuse",NY,52439,53369,-1.7
+516,"Elizabethtown College",PA,51711,52200,-0.9
+517,"Albright College",PA,51578,45693,12.9
+518,"SUNY HSC at Brooklyn College of Medicine",NY,51520,55286,-6.8
+519,"Erskine College",SC,51278,51504,-0.4
+520,"Westminster College (MO)",MO,51077,54215,-5.8
+521,"Seattle Pacific",WA,50954,47407,7.5
+522,"Murray State",KY,50716,51349,-1.2
+523,"McNeese State",LA,50594,50086,1.0
+524,"Oakland",MI,50509,41721,21.1
+525,"Northern Kentucky University",KY,50445,52477,-3.9
+526,"San Jose State University and Tower",CA,50108,50020,0.2
+527,"Fort Hays State University",KS,49949,52378,-4.6
+528,"Indiana State University3",IN,49933,57557,-13.2
+529,"U Dallas",TX,49786,48734,2.2
+530,"Wheelock College",MA,49726,53483,-7.0
+531,"Winthrop",SC,49719,49981,-0.5
+532,"Saint Paul School of Theology",MO,49450,46100,7.3
+533,"Arcadia",PA,49157,51637,-4.8
+534,"Shenandoah",VA,48631,49201,-1.2
+535,"Wagner College",NY,48312,48032,0.6
+536,"Peace College",NC,48174,52269,-7.8
+537,"Manhattan College",NY,48172,48497,-0.7
+538,"Bethany Lutheran College",MN,47892,52079,-8.0
+539,"Howard Payne",TX,47785,50157,-4.7
+540,"Springfield College",MA,47591,52997,-10.2
+541,"Eastern Illinois",IL,47421,44318,7.0
+542,"James Madison University",VA,47371,50726,-6.6
+543,"San Francisco State University",CA,47179,41202,14.5
+544,"Lebanon Valley College",PA,46896,47589,-1.5
+545,"U Arkansas at Fort Smith",AR,46008,42135,9.2
+546,"Ana G. Mendez University",PR,46000,47874,-3.9
+547,"Western New England College",MA,45849,48692,-5.8
+548,"New York Chiropractic College",NY,45648,47987,-4.9
+549,"Eastern Michigan University",MI,45247,48988,-7.6
+550,"Purchase College State U New York",NY,44611,45968,-3.0
+551,"Indiana U Pennsylvania and Affiliates",PA,44348,44216,0.3
+552,"St. Bonaventure",NY,44223,46429,-4.8
+553,"Mount St. Mary College",NY,44126,43903,0.5
+554,"Friends",KS,44113,44912,-1.8
+555,"Le Moyne College",NY,44106,49132,-10.2
+556,"Bethany College (WV)",WV,43831,45180,-3.0
+557,"High Point",NC,43590,47114,-7.5
+558,"Wilkes",PA,43545,44550,-2.3
+559,"Lewis",IL,43520,46300,-6.0
+560,"DeSales",PA,43470,46276,-6.1
+561,"Carthage College",WI,43449,48910,-11.2
+562,"Nebraska Wesleyan",NE,42974,46857,-8.3
+563,"Mount Saint Mary's College",MD,42841,43385,-1.3
+564,"Columbia College of Missouri",MO,42660,32237,32.3
+565,"Florida Institute of Technology",FL,42289,42916,-1.5
+566,"Cleveland State",OH,41770,43831,-4.7
+567,"Houghton College",NY,41728,40278,3.6
+568,"Ferrum College",VA,41472,45495,-8.8
+569,"Saginaw Valley State University",MI,41422,39821,4.0
+570,"Salve Regina",RI,41042,41120,-0.2
+571,"Arkansas State",AR,40827,43562,-6.3
+572,"Aurora",IL,40771,32974,23.6
+573,"Longwood University",VA,40392,43129,-6.3
+574,"Mary Baldwin College",VA,40307,40450,-0.4
+575,"Maryville University (MO)",MO,39947,42113,-5.1
+576,"Saint John Fisher College",NY,39887,40902,-2.5
+577,"Carroll College (WI)",WI,39843,43143,-7.6
+578,"Ashland",OH,39734,44455,-10.6
+579,"Bethune-Cookman College",FL,39608,42854,-7.6
+580,"Elmira College",NY,39451,43685,-9.7
+581,"Northwestern College",IA,39248,41683,-5.8
+582,"Manchester College",IN,38987,42982,-9.3
+583,"Radford University",VA,38760,38886,-0.3
+584,"Georgia Southern",GA,38419,37046,3.7
+585,"Texas Wesleyan",TX,38249,37055,3.2
+586,"Maryville College (TN)",TN,38182,39249,-2.7
+587,"Cleveland Institute of Music",OH,38064,40792,-6.7
+588,"College of Saint Benedict",MN,37793,36436,3.7
+589,"Georgian Court",NJ,37700,46583,-19.1
+590,"U Mary Washington",VA,37491,38883,-3.6
+591,"Eastern Virginia Medical School",VA,37053,34989,5.9
+592,"College of Notre Dame of Maryland",MD,36732,39964,-8.1
+593,"California State University Long Beach",CA,36616,36072,1.5
+594,"Rockhurst",MO,36487,41281,-11.6
+595,"Gannon",PA,35991,37568,-4.2
+596,"Bellarmine",KY,35785,31310,14.3
+597,"Sonoma State",CA,35602,37417,-4.9
+598,"Morningside College",IA,35276,33985,3.8
+599,"Florida Community College at Jacksonville",FL,35266,32923,7.1
+600,"Western Carolina",NC,35189,32700,7.6
+601,"California State University Chico",CA,34656,35741,-3.0
+602,"Hampshire College",MA,34632,36985,-6.4
+603,"Indiana Institute of Technology",IN,34098,36616,-6.9
+604,"Ferris State",MI,33857,36237,-6.6
+605,"Northern Michigan",MI,33836,35613,-5.0
+606,"Pasco-Hernando Community College",FL,33765,34187,-1.2
+607,"Milwaukee School of Engineering",WI,33738,35213,-4.2
+608,"Asbury College",KY,33449,33667,-0.6
+609,"New College",FL,33314,33550,-0.7
+610,"California State Polytechnic University Pomona",CA,33201,33717,-1.5
+611,"Towson",MD,33165,30091,10.2
+612,"San Francisco Conservatory of Music",CA,32908,34177,-3.7
+613,"U La Verne",CA,32098,32642,-1.7
+614,"Heidelberg College",OH,32050,34789,-7.9
+615,"Brenau",GA,32046,41416,-22.6
+616,"School of American Research",NM,31960,33244,-3.9
+617,"Augsburg College",MN,31831,30000,6.1
+618,"Graduate Theological Union",CA,31727,30424,4.3
+619,"Columbus State",GA,31614,31608,0.0
+620,"Erikson Institute",IL,31265,33098,-5.5
+621,"Western Illinois University",IL,30924,29876,3.5
+622,"Madonna",MI,30288,33672,-10.0
+623,"The Sage Colleges",NY,29526,31947,-7.6
+624,"Andrews",MI,29496,31051,-5.0
+625,"Golden Gate",CA,29435,31419,-6.3
+626,"McPherson College",KS,29344,30433,-3.6
+627,"Western Washington University",WA,29183,30275,-3.6
+628,"King College",TN,28822,29599,-2.6
+629,"Alverno College",WI,28773,30590,-5.9
+630,"UW-Eau Claire",WI,28609,29747,-3.8
+631,"SUNY Oneonta",NY,28483,29529,-3.5
+632,"U New England",ME,28412,28476,-0.2
+633,"Cazenovia College",NY,28325,30708,-7.8
+634,"Marywood",PA,28288,30022,-5.8
+635,"Anderson",IN,27907,25373,10.0
+636,"Mercy College",NY,27904,30395,-8.2
+637,"Rocky Mountain College",MT,27812,26616,4.5
+638,"Barry",FL,27809,22974,21.0
+639,"Loras College",IA,27787,29906,-7.1
+640,"Troy State",AL,27135,27178,-0.2
+641,"Kentucky Wesleyan College",KY,27105,29438,-7.9
+642,"U Central Missouri",MO,27075,26662,1.5
+643,"Aquinas College",MI,26978,27812,-3.0
+644,"Lasell College",MA,26862,23523,14.2
+645,"College of St. Scholastica",MN,26845,27776,-3.4
+646,"U Albany",NY,26782,26728,0.2
+647,"Wilmington College",OH,26581,28081,-5.3
+648,"St. Mary's College of Maryland",MD,26334,29172,-9.7
+649,"Samuel Merritt College",CA,26187,26915,-2.7
+650,"Sinclair Community College",OH,26093,27690,-5.8
+651,"The College of Saint Rose",NY,25961,27981,-7.2
+652,"St. John's College (Santa Fe)",NM,25653,26154,-1.9
+653,"Colby-Sawyer College",NH,25537,28179,-9.4
+654,"Covenant College",GA,25470,27627,-7.8
+655,"Philadelphia",PA,25236,26858,-6.0
+656,"Endicott College",MA,25126,23370,7.5
+657,"U the Arts",PA,25109,21491,16.8
+658,"Dordt College",IA,24994,26196,-4.6
+659,"Mercyhurst College",PA,24792,26880,-7.8
+660,"Winston-Salem State",NC,24763,21759,13.8
+661,"U North Carolina at Asheville",NC,24762,22720,9.0
+662,"Marymount",VA,24686,26526,-6.9
+663,"National-Louis",IL,24635,26132,-5.7
+664,"Harrisburg Area Community College",PA,24449,30563,-20.0
+665,"Wisconsin Lutheran College",WI,24368,24974,-2.4
+666,"Averett",VA,24264,23791,2.0
+667,"College of Mount St. Joseph",OH,24201,23985,0.9
+668,"Southern Adventist",TN,23656,25586,-7.5
+669,"Clarke College",IA,23639,18512,27.7
+670,"Saint Francis",PA,23547,24902,-5.4
+671,"Lorain County Community College",OH,23353,19502,19.7
+672,"Fairleigh Dickinson",NJ,23324,23246,0.3
+673,"Eastern Mennonite",VA,23278,25431,-8.5
+674,"Cardinal Stritch",WI,23170,24562,-5.7
+675,"College of Saint Elizabeth",NJ,22945,25062,-8.4
+676,"Northampton Community College",PA,22672,22150,2.4
+677,"Georgia Southwestern State",GA,22637,24606,-8.0
+678,"Central Piedmont Community College",NC,22620,22159,2.1
+679,"Northwestern Nazarene",ID,22547,22061,2.2
+680,"Columbia College (SC)",SC,22372,24748,-9.6
+681,"McKendree College",IL,22349,22397,-0.2
+682,"Virginia State",VA,22296,20860,6.9
+683,"Covenant Theological Seminary",MO,22257,24658,-9.7
+684,"Southeastern Baptist Theological Seminary",NC,22250,19457,14.4
+685,"Mount Mercy College",IA,21766,22608,-3.7
+686,"Lees-McRae College",NC,21600,NA,NA
+687,"California State University Sacramento",CA,21412,19155,11.8
+688,"Thunderbird The Garvin School of International Management",AZ,21235,23334,-9.0
+689,"Culver-Stockton College",MO,20906,20483,2.1
+690,"Ohio Dominican",OH,20772,20992,-1.0
+691,"Rhode Island College",RI,20572,19933,3.2
+692,"George Fox",OR,20515,22355,-8.2
+693,"Robert Morris",PA,20476,19843,3.2
+694,"Cal State Fullerton Philanthropic",CA,20022,17592,13.8
+695,"St. Thomas",FL,19996,23469,-14.8
+696,"Concordia University St. Paul",MN,19400,20900,-7.2
+697,"California Western School of Law",CA,19347,21102,-8.3
+698,"Reconstructionist Rabbinical College",PA,19215,21122,-9.0
+699,"Ringling College of Art and Design",FL,19128,17910,6.8
+700,"Winona State",MN,18783,21194,-11.4
+701,"Ottawa",KS,18639,20583,-9.4
+702,"Delaware Valley College of Science and Agriculture",PA,18483,18590,-0.6
+703,"Northland College",WI,18457,21305,-13.4
+704,"Humboldt State University and Advancement",CA,18447,18797,-1.9
+705,"Southern California College of Optometry",CA,18432,19438,-5.2
+706,"St. Cloud State",MN,18285,18373,-0.5
+707,"Cedar Crest College",PA,18139,19952,-9.1
+708,"Saint Joseph College",CT,18109,20053,-9.7
+709,"Olivet Nazarene",IL,18045,19016,-5.1
+710,"Franklin Pierce Law Center",NH,17947,15022,19.5
+711,"Utica College",NY,17854,19120,-6.6
+712,"Bridgewater State College",MA,17541,17089,2.6
+713,"SUNY Potsdam College",NY,17482,17141,2.0
+714,"Pacific Union College",CA,17398,19317,-9.9
+715,"Francis Marion",SC,17157,16360,4.9
+716,"Misericordia",PA,17076,15782,8.2
+717,"Faulkner",AL,17001,18532,-8.3
+718,"Northern Wyoming Community College District",WY,16451,12959,26.9
+719,"California State University Bakersfield",CA,16415,16460,-0.3
+720,"California State University San Marcos",CA,16222,15158,7.0
+721,"Thomas M. Cooley Law School",MI,16200,16504,-1.8
+722,"Delta State",MS,15938,16401,-2.8
+723,"Tri-County Technical College",SC,15720,15993,-1.7
+724,"American University in Bulgaria",,15529,16263,-4.5
+725,"Defiance College",OH,15428,16751,-7.9
+726,"Roberts Wesleyan College",NY,15393,16262,-5.3
+727,"U Guam",GU,15368,15960,-3.7
+728,"Mount Aloysius College",PA,15358,16334,-6.0
+729,"California State University Los Angeles",CA,15091,16553,-8.8
+730,"Southern Oregon University",OR,14605,16833,-13.2
+731,"Macomb Community College",MI,14532,14109,3.0
+732,"West Chester U Pennsylvania",PA,14417,14908,-3.3
+733,"Marymount Manhattan College",NY,14336,15140,-5.3
+734,"California State University San Bernardino",CA,14190,12651,12.2
+735,"Southern Illinois University at Edwardsville",IL,13953,15276,-8.7
+736,"Neumann College",PA,13633,14935,-8.7
+737,"SUNY Cortland",NY,13565,13650,-0.6
+738,"Plattsburgh College",NY,13456,13031,3.3
+739,"Notre Dame de Namur",CA,12696,16269,-22.0
+740,"Saint Mary-of-the-Woods College",IN,12665,13396,-5.5
+741,"Vermont Law School",VT,12578,12829,-2.0
+742,"Fayetteville State",NC,12497,11350,10.1
+743,"Delta College",MI,12328,12601,-2.2
+744,"Worcester State College",MA,12191,12387,-1.6
+745,"Saint Xavier",IL,11926,12064,-1.1
+746,"Shawnee State",OH,11854,13138,-9.8
+747,"Grand View College",IA,11660,11866,-1.7
+748,"California State University Stanislaus",CA,11084,11000,0.8
+749,"Mount Ida College",MA,10762,10578,1.7
+750,"Edinboro U Pennsylvania",PA,10454,10767,-2.9
+751,"Trinity University (Washington DC)",DC,10263,10776,-4.8
+752,"The College of New Jersey",NJ,10220,9145,11.8
+753,"Paine College",GA,9532,10129,-5.9
+754,"Lord Fairfax Community College",VA,9365,8821,6.2
+755,"Holy Family",PA,9350,8605,8.7
+756,"California State University",CA,9210,9744,-5.5
+757,"California State University Hayward",CA,9179,9762,-6.0
+758,"Hesston College",KS,8918,9898,-9.9
+759,"Trinity Western",BC,8762,7613,15.1
+760,"SUNY Oswego",NY,8753,8667,1.0
+761,"Holy Names",CA,8749,7270,20.3
+762,"Briar Cliff",IA,8737,8995,-2.9
+763,"Ramapo College",NJ,8549,7252,17.9
+764,"Saint Martin's College",WA,8307,NA,NA
+765,"Boston Architectural College",MA,8175,8603,-5.0
+766,"Franklin Pierce",NH,8030,10889,-26.3
+767,"SUNY All Other Campuses",NY,7992,8540,-6.4
+768,"Chaminade",HI,7659,8033,-4.7
+769,"Longy School of Music",MA,7536,8361,-9.9
+770,"California State University Channel Islands",CA,7253,7722,-6.1
+771,"Thomas College",ME,7040,7443,-5.4
+772,"California State University Monterey Bay",CA,7014,4801,46.1
+773,"California State University Dominguez Hill",CA,6567,6730,-2.4
+774,"Virginia Institute of Marine Science",VA,6386,3068,108.1
+775,"Cornerstone",MI,6202,6454,-3.9
+776,"Denver Seminary",CO,6137,6417,-4.4
+777,"Centralia College",WA,5804,5928,-2.1
+778,"Midlands Technical College",SC,5628,6026,-6.6
+779,"Caldwell College",NJ,5551,6004,-7.5
+780,"Keuka College",NY,5494,5736,-4.2
+781,"Harford Community College",MD,4901,5310,-7.7
+782,"Pellissippi State Technical Community College",TN,4870,4816,1.1
+783,"SUNY Brockport",NY,4674,4890,-4.4
+784,"Tidewater Comm. College Educational",VA,3674,3696,-0.6
+785,"Massachusetts Bay Community College",MA,2863,3027,-5.4
+786,"Laredo Community College",TX,2051,1956,4.9
+787,"Northeast State Technical Community College",TN,1939,1850,4.8
+788,"California Maritime Academy",CA,1844,1837,0.4
+789,"Lakeland Community College",OH,1724,1747,-1.3
+790,"William Jessup",CA,1114,932,19.5
+791,"Georgia Perimeter College",GA,596,571,4.4

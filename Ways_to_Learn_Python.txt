@@ -1,0 +1,36 @@
+
+Some good resources for learning Python:
+
+
+-- A great place to start is at the Python project site:
+      http://python.org
+
+   There is an excellent "Beginner's Guide to Python"
+      https://wiki.python.org/moin/BeginnersGuide
+   
+   There is even a translation into Chinese:
+      https://wiki.python.org/moin/BeginnersGuideChinese
+   
+   Th python.org site lists other documentation, including books about Python:
+      https://wiki.python.org/moin/PythonBooks
+
+
+-- There are good tutorial videos about Python online.
+
+   The Google Python class:
+      https://developers.google.com/edu/python/
+
+      Associated videos:
+      https://www.youtube.com/playlist?list=PL61E606149255B362
+
+   Official Python video site:
+      https://www.python.org/doc/av
+
+
+-- If you want more advanced how-to books, with code snippets and
+      semi-real demos, O'Reilly has a large set of books about Python:
+
+      http://search.oreilly.com/?q=Python
+
+   UCLA used to have free access to Safari, O'Reilly's online access portal:
+      http://learnit.ucla.edu/safari
